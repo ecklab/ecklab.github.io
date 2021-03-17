@@ -2,4 +2,4 @@
 
 Welcome to the Eck research lab. 
 
-![](dje13.png)
+Website under construction, go to my [UIUC page](https://publish.illinois.edu/danieleck/)
