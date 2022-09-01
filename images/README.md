@@ -1,47 +1,3 @@
-
-# Course Resources
-
-The **stat430materials** GitHub repository contains all information about our STAT 430 course.
-
-See the lectures directory for course notes. See the labs directory for lab assignments.
-
-
-# News
-
- - Welcome to the inaugural section of STAT 430: Baseball Analytics!
-
- - Week 2 course slides are posted.
- 
- - Jim Albert's talk is rescheduled for next week.
-
- - Lab 1 is posted, and it is due on 09/09 at 11:59 pm. 
-
- - I have added a document that goes over the submission workflow, GitHub, R markdown code chunks, and terminal commands in detail. This document is called week1_supplemental_materials.md and it is available to you in 
-
-```
-lectures/week1_data
-```
-
-## Good Habits
-
- - pull my **stat430materials** repo before class starts
- - NEVER edit or remove any files in my **stat430materials** repo
- - load in datasets and run the code in the notes before class starts
- - make sure that the notes compile 
- - use your computer's terminal, it is less user-friendly but it is MUCH faster
- - Stay centered and remember Hofstadter's Law, which describes the widely experienced difficulty of accurately estimating the time it will take to complete tasks of substantial complexity. **Hofstadter's Law**: It always takes longer than you expect, even when you take into account Hofstadter's Law.
- 
-
-## Lab Hints
-
- - can work on labs in small groups of 2-3
- - get a jump start on the labs, do not wait until the last minute
- - use caching when appropriate
- - make sure that your lab report compiles when you complete a problem or stop working for the day
- - push often
- - do not jeopardize the entire lab over one problem
-
-
 # Course Syllabus
 
 ### Greetings
@@ -63,12 +19,11 @@ lectures/week1_data
 
 **Course location:** 140 Henry Admin Building
 
-**Office hours**: Instructor office hours are on Thursdays, 10 - 11 am. One can access these office hours with this Zoom link: https://illinois.zoom.us/j/87940772738?pwd=NnNoajV5SzNBT2ZvR1IzdTlSR3RJdz09
+**Office hours**: Instructor office hours are on Thursdays, 10 - 11 am. 
 
-**TA**: Shen Yan (shenyan3@illinois.edu). TA office hours are on Fridays, 10am - 12pm. One can access these office hours with this Zoom link:  https://illinois.zoom.us/j/84804604193?pwd=TkllNWVCSGRVWnFMMDVLa0twbHM2UT09
+**TA**: Shen Yan (shenyan3@illinois.edu). TA office hours are on Fridays, 10am - 12pm. 
 
 **Course website**: https://github.com/stat430fa22/stat430materials
-
 
 My course website is a GitHub repository. You can click  [here](https://github.com/stat430fa22/stat430materials) to access this website. Note that this Syllabus is a Markdown document. Open the .md file to view the basic Markdown syntax used to build your Syllabus.
 
@@ -157,7 +112,7 @@ I will be using a +/- grading schema. The grade distributions will be:
 | 867 | 899 | B+ |
 | 833 | 866 | B |
 | 800 | 832 | B-|
-and so on 
+| and so on | | |
 
 
 #### Attendance and Course Content
@@ -225,54 +180,8 @@ Possible projects include:
 There will be no exams!
 
 
-
-
-
 ***
 
-
-### Policies
-
-#### Disability Accommodations
-To obtain disability-related academic adjustments and/or auxiliary aids, students with disabilities must contact the course instructor and the Disability Resources and Educational Services (DRES) as soon as possible. We will try to meet all accommodations once the process has started. Please note accommodations are not retroactive to the beginning of the semester, but begin the day you contact me with a current letter of accommodation from DRES. To contact DRES, you may visit 1207 S. Oak St., Champaign, call 333-4603, e-mail disability@illinois.edu or go to the DRES website at http://disability.illinois.edu/
-
-#### Academic Integrity
-It is expected that all students abide by the campus regulations on academic integrity [http://studentcode.illinois.edu/article1_part4_1-401.html].  Intentional violations of academic integrity can be found at http://studentcode.illinois.edu/article1_part4_1-402.html and include, but are not limited to, copying any part of another student's homework, allowing another student to copy any part of your homework, or submitting a review or summary of a presentation not attended.
-
-<!-- #### Attendance and Course Content -->
-<!-- Attendance in this course is a requirement. There will be a signup sheet that is distributed at the beginning of class, you need to sign your name to verify your presence in class. Let your instructor know in advance if you cannot attend any class. Course content - notes, code, required readings, and data sets - will be found on the Course Website. Do check the Course Website often for updates. Students are encouraged to take notes in class and read materials outside of class. Students are encouraged to save your work in individual GitHub repositories. -->
-<!-- Please follow the Student Code https://studentcode.illinois.edu/docs/18.001.FullCodeInside.vf.pdf if you do have absences.  -->
-
-
-
-#### For Your Safety
-We have been asked by Public Safety https://police.illinois.edu/emergency-preparedness/run-hide-fight/ to share the following information in case of weather or security emergencies. See the links:
-
-- [Emergency Response Recommendations](https://police.illinois.edu/emergency-preparedness/run-hide-fight/)
-- [Video on Emergency Response](https://mediaspace.illinois.edu/media/t/1_bbti3ec5)
-
-#### Sexual Misconduct Policy and Reporting
-The University of Illinois is committed to combating sexual misconduct. Faculty and staff members are required to report any instances of sexual misconduct to the University's Title IX and Disability Office. In turn, an individual with the Title IX and Disability Office will provide information about rights and options, including accommodations, support services, the campus disciplinary process, and law enforcement options. 
-
-A list of the designated University employees who, as counselors, confidential advisors, and medical professionals, do not have this reporting responsibility and can maintain confidentiality, can be found at https://wecare.illinois.edu/resources/students/#confidential. Other information about resources and reporting is available at https://wecare.illinois.edu.
-
-
-***
-
-
-
-
-<!-- **Possible Papers**:  
-
-1. [A mixed effects multinomial logistic-normal model for forecasting baseball performance](https://www.researchgate.net/publication/348453795_A_mixed_effects_multinomial_logistic-normal_model_for_forecasting_baseball_performance)
-
-2. [openWAR: An open source system for evaluating overall player performance in major league baseball](https://www.degruyter.com/document/doi/10.1515/jqas-2014-0098/html)
-
-3. [Hierarchical Bayesian modeling of hitting performance in baseball](https://projecteuclid.org/journals/bayesian-analysis/volume-4/issue-4/Hierarchical-Bayesian-modeling-of-hitting-performance-in-baseball/10.1214/09-BA424.pdf)
-
-4. [Enhancing strategic defensive positioning and performance in the outfield](https://link.springer.com/article/10.1007/s10109-021-00367-1)
-
- [Underestimating the Fog](https://sabr.org/research/article/underestimating-the-fog/), A Revised Look at Clutch Hitting parts [1](https://www.baseballprospectus.com/news/article/38398/prospectus-feature-revised-look-clutch-hitting-part-1/) and [2](https://www.baseballprospectus.com/news/article/38519/prospectus-feature-revised-look-clutch-hitting-part-2/), and [Clutch Hitting Revisited](https://sabr.org/journal/article/clutch-hitting-revisited/) -->
 
 
 ### Schedule (subject to change)
@@ -292,12 +201,12 @@ A list of the designated University employees who, as counselors, confidential a
   + **Reading**: CH 3 in Analyzing Baseball Data with R (common visualization)
   + **Lab** 1 due on 09/09 at 11:59 pm
   + **Lab 2** assigned this week, due on 09/23 at 11:59 pm
-  + **Speaker 1**: Jim Albert's talk 11:10-12:10 via Zoom ([link](https://illinois.zoom.us/j/84797806964?pwd=bVdlZERNZzhJRGp4NEk5Z1FmZXAwZz09) Meeting ID: 847 9780 6964; Password: 179520)  
+  + **Speaker 1**: Jim Albert's talk 11:10-12:10 via Zoom 
 
 * Week 4 [09/14]
   + **Reading**: course slides
   + **Reading**: CH 4: The Relation Between Runs and Wins in Analyzing Baseball Data with R
-  + **Speaker**: Ed Kaplan's talk on "Decomposing Pythagorous" 12-1 via Zoom ([link](https://illinois.zoom.us/j/85629079790?pwd=UG5FZHM3NEZlRDdWZGtTQ1pybzQyQT09); Meeting ID: 856 2907 9790; Password: 054287)
+  + **Speaker**: Ed Kaplan's talk on "Decomposing Pythagorous" 12-1 via Zoom 
 
 * Week 5 [09/21]
   + **Reading**: course slides
