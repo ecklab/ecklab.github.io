@@ -32,7 +32,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 ## People 
 
-<img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/dje13.png.jpg?itok=j2rsX2F_" 
+<img src="images/dje13.png" 
      width="50" 
      height="50"
      hspace="25"
@@ -115,7 +115,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Charles Young](https://www.linkedin.com/in/charles-young-2aa709136/) (2020) - Charles is currently working as a Qunatitative Developer with the Houston Astros.
+     />[Charles Young](https://www.linkedin.com/in/charles-young-2aa709136/) (2020) - Charles is currently working as a Quantitative Developer with the Houston Astros.
 
 
 
