@@ -24,7 +24,7 @@ rank | name | ebWAR | name | efWAR
 
 
 
-**SEAM method** - We develop the SEAM (synthetic estimated average matchup) method for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spracy charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web applciation](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
+**SEAM method** - We develop the SEAM (synthetic estimated average matchup) method for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spracy charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
 
 Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analytics Conference:
 
