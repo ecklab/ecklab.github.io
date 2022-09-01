@@ -40,6 +40,8 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      align = "left"
      /> [Daniel J. Eck](https://publish.illinois.edu/danieleck/) - Statistics professor at the University of Illinois Urbana-Champaign. Daniel is an active researcher in baseball analytics and has recently developed a topics course devoted to [Baseball Analytics](https://courses.illinois.edu/schedule/2022/fall/STAT/430) at the University of Illinois (see the Syllabus [here](images/README.md)).
 
+<br>
+
 <img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photo/IMG_9137.png.jpg?itok=Exi33hhi" 
      width="50" 
      height="50"
@@ -47,7 +49,9 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      vspace="10"
      align = "left"
      />[David Dalpiaz](https://daviddalpiaz.org/) - Statistics professor at the University of Illinois Urbana-Champaign. David is an active researcher in baseball analytics.
-     
+
+<br>
+
 <img src="https://history.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/burgosjr.png.jpg?itok=_i1SiQt0" 
      width="50" 
      height="50"
@@ -55,6 +59,8 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      vspace="10"
      align = "left"
      /> [Adrian Burgos Jr.](https://history.illinois.edu/directory/profile/burgosjr) - History professor at the University of Illinois Urbana-Champaign.  Adrian has written numerous books and articles and has taught numerous classes devoted to this topic. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.
+
+<br>
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFNThn4sK1Ezg/profile-displayphoto-shrink_400_400/0/1520998994914?e=1667433600&v=beta&t=NsuXsy2okHVDTPu_hXZQ9jGhEtgLjWBzHWemWZPwmFY" 
      width="50" 
@@ -89,13 +95,13 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/1/1e/Baseball_%28crop%29.jpg" 
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGMP17j-gdn7g/profile-displayphoto-shrink_400_400/0/1659712393651?e=1667433600&v=beta&t=nnWj0qN4yOFTxWDXEyBeFwjBCK-egrBHnwKHmHQxLYM" 
      width="50" 
      height="50"
      hspace="25"
      vspace="10"
      align = "left"
-     />[Christian Chase Jr.](https://www.linkedin.com/in/christian-chase/) (2022) - Currently working as an Baseball Operations Intern at MLB and UF Baseball Data Intern. Check out Christian's [baseball website](https://chasechristian7.wixsite.com/christiansbaseballwo).
+     />[Christian Chase Jr.](https://www.linkedin.com/in/christian-chase/) (2022) - Currently working as a Baseball Operations Intern at MLB and UF Baseball Data Intern. Check out Christian's [baseball website](https://chasechristian7.wixsite.com/christiansbaseballwo).
 
 <br>
 
