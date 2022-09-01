@@ -24,7 +24,7 @@ rank | name | ebWAR | name | efWAR
 
 
 
-**SEAM method** - 
+**SEAM method** - We develop the SEAM (synthetic estimated average matchup) method for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spracy charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web applciation](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
 
 
 ## People 
@@ -44,6 +44,14 @@ rank | name | ebWAR | name | efWAR
      vspace="10"
      align = "left"
      />[David Dalpiaz](https://daviddalpiaz.org/) - Statistics professor at the University of Illinois Urbana-Champaign. David is an active researcher in baseball analytics.
+     
+<img src="https://history.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/burgosjr.png.jpg?itok=_i1SiQt0" 
+     width="50" 
+     height="50"
+     hspace="25"
+     vspace="10"
+     align = "left"
+     /> [Adrian Burgos Jr.](https://history.illinois.edu/directory/profile/burgosjr) - History professor at the University of Illinois Urbana-Champaign.  Adrian has written numerous books and articles and has taught numerous classes devoted to this topic. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFNThn4sK1Ezg/profile-displayphoto-shrink_400_400/0/1520998994914?e=1667433600&v=beta&t=NsuXsy2okHVDTPu_hXZQ9jGhEtgLjWBzHWemWZPwmFY" 
      width="50" 
