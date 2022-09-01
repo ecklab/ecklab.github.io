@@ -1,6 +1,6 @@
 ## Welcome 
 
-Welcome to the Eck research lab. At Eck lab we are devoted to the understanding of all things baseball. 
+Welcome to the Eck Lab! At Eck Lab we are devoted to the understanding of all things baseball. 
 
 
 ## Current projects 
