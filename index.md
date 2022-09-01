@@ -89,7 +89,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <br>
 
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" 
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1e/Baseball_%28crop%29.jpg" 
      width="50" 
      height="50"
      hspace="25"
