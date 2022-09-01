@@ -38,9 +38,8 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     /> [Daniel J. Eck](https://publish.illinois.edu/danieleck/) - Statistics professor at the University of Illinois Urbana-Champaign. Daniel is an active researcher in baseball analytics and has recently developed a topics course devoted to [Baseball Analytics](https://courses.illinois.edu/schedule/2022/fall/STAT/430) at the University of Illinois (see the Syllabus [here](images/README.md)).
+     /> [Daniel J. Eck](https://publish.illinois.edu/danieleck/) - Daniel is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics and has recently developed a topics course devoted to [Baseball Analytics](https://courses.illinois.edu/schedule/2022/fall/STAT/430) at the University of Illinois (see the Syllabus [here](images/README.md)).
 
-<br>
 
 <img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photo/IMG_9137.png.jpg?itok=Exi33hhi" 
      width="50" 
@@ -48,9 +47,8 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[David Dalpiaz](https://daviddalpiaz.org/) - Statistics professor at the University of Illinois Urbana-Champaign. David is an active researcher in baseball analytics.
+     />[David Dalpiaz](https://daviddalpiaz.org/) - David is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics.
 
-<br>
 
 <img src="https://history.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/burgosjr.png.jpg?itok=_i1SiQt0" 
      width="50" 
@@ -58,9 +56,16 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     /> [Adrian Burgos Jr.](https://history.illinois.edu/directory/profile/burgosjr) - History professor at the University of Illinois Urbana-Champaign.  Adrian has written numerous books and articles and has taught numerous classes devoted to this topic. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.
+     /> [Adrian Burgos Jr.](https://history.illinois.edu/directory/profile/burgosjr) - Adrian is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles and has taught numerous classes devoted to baseball history. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.
 
-<br>
+<img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/kinson2.png.jpg?itok=Hrw19h36" 
+     width="50" 
+     height="50"
+     hspace="25"
+     vspace="10"
+     align = "left"
+     />[Christopher Kinson](https://chriskinson.com/) - Christopher is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.
+
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFNThn4sK1Ezg/profile-displayphoto-shrink_400_400/0/1520998994914?e=1667433600&v=beta&t=NsuXsy2okHVDTPu_hXZQ9jGhEtgLjWBzHWemWZPwmFY" 
      width="50" 
@@ -68,7 +73,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Shen Yan](https://www.linkedin.com/in/shen-yan-87a09812b/) - PhD Statistics student at the University of Illinois Urbana-Champaign.
+     />[Shen Yan](https://www.linkedin.com/in/shen-yan-87a09812b/) - Shen is a PhD Statistics student at the University of Illinois Urbana-Champaign.
 
 <br>
 
@@ -78,7 +83,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Colin Alberts](https://www.linkedin.com/in/colin-alberts/) - Applied Mathematics student at the University of Illinois Urbana-Champaign.
+     />[Colin Alberts](https://www.linkedin.com/in/colin-alberts/) - Colin is an Applied Mathematics student at the University of Illinois Urbana-Champaign.
 
 
 <br>
@@ -91,7 +96,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Julia Wapner](https://www.linkedin.com/in/julia-wapner-72b418199/) (2022) - Currently working as an Analytics Fellow with the Baltimore Orioles.
+     />[Julia Wapner](https://www.linkedin.com/in/julia-wapner-72b418199/) (2022) - Julia is currently working as an Analytics Fellow with the Baltimore Orioles.
 
 <br>
 
@@ -101,9 +106,8 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Christian Chase Jr.](https://www.linkedin.com/in/christian-chase/) (2022) - Currently working as a Baseball Operations Intern at MLB and UF Baseball Data Intern. Check out Christian's [baseball website](https://chasechristian7.wixsite.com/christiansbaseballwo).
+     />[Christian Chase Jr.](https://www.linkedin.com/in/christian-chase/) (2022) - Christian is currently working as a Baseball Operations Intern at MLB and UF Baseball Data Intern. Check out his [baseball website](https://chasechristian7.wixsite.com/christiansbaseballwo).
 
-<br>
 
 <img src="https://media-exp1.licdn.com/dms/image/C5603AQHx6bcJF56fVA/profile-displayphoto-shrink_400_400/0/1654909344953?e=1667433600&v=beta&t=H3Grbxhm9RDLTvWIlrQW4U10HC57OJGZ6twIs6tguy4" 
      width="50" 
@@ -111,7 +115,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Charles Young](https://www.linkedin.com/in/charles-young-2aa709136/) (2020) - Currently working as a Qunatitative Developer with the Houston Astros.
+     />[Charles Young](https://www.linkedin.com/in/charles-young-2aa709136/) (2020) - Charles is currently working as a Qunatitative Developer with the Houston Astros.
 
 
 
