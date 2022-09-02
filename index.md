@@ -191,6 +191,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      align = "center"
      />](https://github.com/ecklab/seam/) 
 
+<br>
 
 ([logo image credit](https://tvline.com/2022/08/12/tv-ratings-field-of-dreams-game-mlb/))
 
