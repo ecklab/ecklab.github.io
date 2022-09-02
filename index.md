@@ -90,13 +90,23 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <br>
 
-<img src="http://jackbanks.web.illinois.edu/wp-content/uploads/2020/12/cropped-Banks-Jack_0537@-1.jpg" 
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQERycUKCZ15oA/profile-displayphoto-shrink_400_400/0/1660231349707?e=1667433600&v=beta&t=rjmBJ682cw1qqYaqxmGGyVVjTz_QMD-t512JgTDKBKQ" 
      width="50" 
      height="50"
      hspace="25"
      vspace="10"
      align = "left"
      />[Jack C. Banks](https://www.linkedin.com/in/jack-banks2/) - Jack is a Statistics BS student at the University of Illinois Urbana-Champaign. Check out his [website](http://jackbanks.web.illinois.edu/).
+
+<br>
+
+<img src="images/fieldOdreams.png" 
+     width="50" 
+     height="50"
+     hspace="25"
+     vspace="10"
+     align = "left"
+     />[Michael Escobedo](https://www.linkedin.com/in/michael-escobedo-76b452209/) - Michael is a Statistics BS student at the University of Illinois Urbana-Champaign. 
 
 
 <br>
