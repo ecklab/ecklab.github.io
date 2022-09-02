@@ -2,7 +2,7 @@
 
 Welcome to the Eck Lab! 
 
-At Eck Lab we are devoted to the understanding of all things baseball. 
+At Eck Lab, our mission is to provide high quality research on all things baseball. We study topics ranging from player evaluation tools to comparing players across eras. The common thread linking all of our projects is a dedication to high-quality and often innovative statistical and interdisciplinary research with a focus on an accessible and entertaining presentation of our ideas. 
 
 
 ## Current projects 
