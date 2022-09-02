@@ -120,3 +120,25 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 
 
+## Papers and resources 
+
+**Challenging notalgia and performance metrics in baseball**  [peer-reviewed article](https://www.tandfonline.com/doi/full/10.1080/09332480.2020.1726114)
+ 
+ <img src="images/FanGraphs.png" 
+     width="30" 
+     height="30"
+     hspace="1"
+     vspace="10"
+     align = "center"
+     /> [FanGraphs article](https://community.fangraphs.com/challenging-war-and-other-statistics-as-era-adjustment-tools/)
+
+<img src="images/R.png" 
+     width="30" 
+     height="30"
+     hspace="1"
+     vspace="10"
+     align = "center"
+     /> [Shiny web application](https://deck13.shinyapps.io/challenging_baseball_nostalgia/)
+
+     
+
