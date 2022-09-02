@@ -33,6 +33,8 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 [![](images/SEAMtalk.png)](https://www.youtube.com/watch?v=I4k79lF7O1s&ab_channel=SABRvideos)
 
+<br>
+
 ## People 
 
 <img src="images/dje13.png" 
