@@ -124,97 +124,72 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 ## Papers and resources 
 
-### **Challenging notalgia and performance metrics in baseball**  
-
-<img src="images/article.png" 
-     width="30" 
-     height="30"
+ - Challenging notalgia and performance metrics in baseball [<img src="images/article.png" 
+     width="20" 
+     height="20"
      hspace="1"
-     vspace="10"
+     vspace="1"
      align = "center"
-     /> [peer-reviewed article](https://www.tandfonline.com/doi/full/10.1080/09332480.2020.1726114) <img src="images/FanGraphs.png" 
-     width="30" 
-     height="30"
+     />](https://www.tandfonline.com/doi/full/10.1080/09332480.2020.1726114) 
+[<img src="images/FanGraphs.png" 
+     width="20" 
+     height="20"
      hspace="1"
-     vspace="10"
+     vspace="1"
      align = "center"
-     /> [FanGraphs article](https://community.fangraphs.com/challenging-war-and-other-statistics-as-era-adjustment-tools/)
-
-<img src="images/R.png" 
-     width="30" 
-     height="30"
+     />](https://community.fangraphs.com/challenging-war-and-other-statistics-as-era-adjustment-tools/) 
+[<img src="images/R.png" 
+     width="20" 
+     height="20"
      hspace="1"
-     vspace="10"
+     vspace="1"
      align = "center"
-     /> [Shiny web application](https://deck13.shinyapps.io/challenging_baseball_nostalgia/) <img src="images/GitHub.png" 
-     width="30" 
-     height="30"
+     />](https://deck13.shinyapps.io/challenging_baseball_nostalgia/) 
+[<img src="images/GitHub.png" 
+     width="20" 
+     height="20"
      hspace="1"
-     vspace="10"
+     vspace="1"
      align = "center"
-     /> [GitHub repo](https://github.com/ecklab/challenging_nostalgia)
+     />](https://github.com/ecklab/challenging_nostalgia) 
      
-<br>
 
-### **Comparing baseball players across eras via the novel Full House Model**
-
-<img src="images/ArXiv.png" 
-     width="40" 
-     height="30"
-     hspace="1"
-     vspace="10"
-     align = "center"
-     /> [ArXiv preprint](https://arxiv.org/abs/2207.11332)
-
-<img src="images/FanGraphs.png" 
+ - Comparing baseball players across eras via the novel Full House Model [<img src="images/ArXiv.png" 
      width="30" 
-     height="30"
+     height="20"
      hspace="1"
-     vspace="10"
+     vspace="1"
      align = "center"
-     /><img src="images/R.png" 
-     width="30" 
-     height="30"
-     hspace="1"
-     vspace="10"
-     align = "center"
-     /><img src="images/GitHub.png" 
-     width="30" 
-     height="30"
-     hspace="1"
-     vspace="10"
-     align = "center"
-     /> Coming soon!
+     />](https://arxiv.org/abs/2207.11332) 
 
-<br>
-
-### **SEAM methodology for context-rich player matchup evaluations**
-
-<img src="images/ArXiv.png" 
-     width="40" 
-     height="30"
-     hspace="1"
-     vspace="10"
-     align = "center"
-     /> [ArXiv preprint](https://arxiv.org/abs/2005.07742) <img src="images/FanGraphs.png" 
+ - SEAM methodology for context-rich player matchup evaluations [<img src="images/ArXiv.png" 
      width="30" 
-     height="30"
+     height="20"
      hspace="1"
-     vspace="10"
+     vspace="1"
      align = "center"
-     /> [FanGraphs article (version 1)](https://community.fangraphs.com/seam-methodology-for-player-matchup-evaluations/)
+     />](https://arxiv.org/abs/2005.07742) 
+[<img src="images/FanGraphs.png" 
+     width="20" 
+     height="20"
+     hspace="1"
+     vspace="1"
+     align = "center"
+     />](https://community.fangraphs.com/seam-methodology-for-player-matchup-evaluations/) 
+[<img src="images/R.png" 
+     width="20" 
+     height="20"
+     hspace="1"
+     vspace="1"
+     align = "center"
+     />](https://seam.stat.illinois.edu/index.html) 
+[<img src="images/GitHub.png" 
+     width="20" 
+     height="20"
+     hspace="1"
+     vspace="1"
+     align = "center"
+     />](https://github.com/ecklab/seam/) 
 
-<img src="images/R.png" 
-     width="30" 
-     height="30"
-     hspace="1"
-     vspace="10"
-     align = "center"
-     /> [Shiny web application](https://seam.stat.illinois.edu/index.html) <img src="images/GitHub.png" 
-     width="30" 
-     height="30"
-     hspace="1"
-     vspace="10"
-     align = "center"
-     /> [GitHub repo](https://github.com/ecklab/seam/)
+
 
