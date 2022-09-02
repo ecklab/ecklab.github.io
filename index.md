@@ -76,7 +76,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Shen Yan](https://www.linkedin.com/in/shen-yan-87a09812b/) - Shen is a PhD Statistics student at the University of Illinois Urbana-Champaign.
+     />[Shen Yan](https://www.linkedin.com/in/shen-yan-87a09812b/) - Shen is a Statistics PhD student at the University of Illinois Urbana-Champaign.
 
 <br>
 
@@ -86,7 +86,17 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Colin Alberts](https://www.linkedin.com/in/colin-alberts/) - Colin is an Applied Mathematics student at the University of Illinois Urbana-Champaign.
+     />[Colin Alberts](https://www.linkedin.com/in/colin-alberts/) - Colin is an Applied Mathematics MS student at the University of Illinois Urbana-Champaign.
+
+<br>
+
+<img src="http://jackbanks.web.illinois.edu/wp-content/uploads/2020/12/cropped-Banks-Jack_0537@-1.jpg" 
+     width="50" 
+     height="50"
+     hspace="25"
+     vspace="10"
+     align = "left"
+     />[Jack C. Banks](https://www.linkedin.com/in/jack-banks2/) - Jack is a Statistics BS student at the University of Illinois Urbana-Champaign. Check out his [website](http://jackbanks.web.illinois.edu/).
 
 
 <br>
