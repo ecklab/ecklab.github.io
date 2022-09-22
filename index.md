@@ -22,14 +22,14 @@ rank | name | ebWAR | name | efWAR
 | -- | ------- | ---- | ------ | ---- |
 1  | Barry Bonds      | 154.80 | Barry Bonds      | 152.69
 2  | Willie Mays      | 145.47 | Willie Mays      | 138.04
-3  | Roger Clemens    | 141.33 | Roger Clemens    | 131.19
+3  | Roger Clemens    | 141.78 | Roger Clemens    | 131.18
 4  | Hank Aaron       | 129.65 | Hank Aaron       | 125.00
-5  | Babe Ruth        | 122.77 | Babe Ruth        | 119.16
+5  | Babe Ruth        | 122.81 | Babe Ruth        | 119.16
 6  | Alex Rodriguez   | 121.01 | Alex Rodriguez   | 116.66
-7  | Greg Maddux      | 111.60 | Greg Maddux      | 115.28
+7  | Greg Maddux      | 111.58 | Greg Maddux      | 115.29
 8  | Albert Pujols    | 111.03 | Mike Schmidt     | 107.80
 9  | Mike Schmidt     | 110.43 | Rickey Henderson | 106.86
-10 | Rickey Henderson | 107.79 | Nolan Ryan       | 105.24
+10 | Rickey Henderson | 107.79 | Nolan Ryan       | 105.23
 
 *These stats are computed as if all players began their career in 1977; the list above includes both Babe Ruth's batting and pitching WAR*
 
