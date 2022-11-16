@@ -79,7 +79,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      />[Christopher Kinson](https://chriskinson.com/) - Christopher is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFNThn4sK1Ezg/profile-displayphoto-shrink_400_400/0/1520998994914?e=1667433600&v=beta&t=NsuXsy2okHVDTPu_hXZQ9jGhEtgLjWBzHWemWZPwmFY" 
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFNThn4sK1Ezg/profile-displayphoto-shrink_400_400/0/1520998994914?e=1674086400&v=beta&t=OQ2tVgtYRJKIlee_GMYnA_7fL88Wd9KbSdUHnKiqUcM" 
      width="50" 
      height="50"
      hspace="25"
@@ -89,7 +89,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <br>
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHBN1392SNUcw/profile-displayphoto-shrink_400_400/0/1594831527813?e=1667433600&v=beta&t=512oiDlU94KTaLTyY5vPP8WR4xx5pDHAAWQCtW0ELc8" 
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHBN1392SNUcw/profile-displayphoto-shrink_400_400/0/1594831527813?e=1667433600&v=beta&t=512oiDlU94KTaLTyY5vPP8WR4xx5pDHAAWQCtW0ELc8](https://media-exp1.licdn.com/dms/image/C4E03AQHBN1392SNUcw/profile-displayphoto-shrink_400_400/0/1594831527813?e=1674086400&v=beta&t=hEYx5j7RhbAArBWzsxC5KjjE5NtBed9kZDDHLcQwYg8" 
      width="50" 
      height="50"
      hspace="25"
@@ -99,7 +99,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <br>
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQERycUKCZ15oA/profile-displayphoto-shrink_400_400/0/1660231349707?e=1667433600&v=beta&t=rjmBJ682cw1qqYaqxmGGyVVjTz_QMD-t512JgTDKBKQ" 
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQERycUKCZ15oA/profile-displayphoto-shrink_400_400/0/1660231349707?e=1667433600&v=beta&t=rjmBJ682cw1qqYaqxmGGyVVjTz_QMD-t512JgTDKBKQ](https://media-exp1.licdn.com/dms/image/C5603AQERycUKCZ15oA/profile-displayphoto-shrink_400_400/0/1660231349707?e=1674086400&v=beta&t=rpGUaG-3IfXz57vn2p_vg3t0AwSVe5Oe6WDXnTZiXRc" 
      width="50" 
      height="50"
      hspace="25"
@@ -122,7 +122,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 ## Alumni 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFdt9gYUDRUVQ/profile-displayphoto-shrink_400_400/0/1578449209595?e=1667433600&v=beta&t=gCxvpWI-N5xVYT024lHrrYSu8vrcEE9uazL4geBShHg" 
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFdt9gYUDRUVQ/profile-displayphoto-shrink_400_400/0/1578449209595?e=1667433600&v=beta&t=gCxvpWI-N5xVYT024lHrrYSu8vrcEE9uazL4geBShHg](https://media-exp1.licdn.com/dms/image/C4D03AQFdt9gYUDRUVQ/profile-displayphoto-shrink_400_400/0/1578449209595?e=1674086400&v=beta&t=UGmZRGUlKrczG3AQNuLeF3U9PsIG6BbBi6054Zqf0cQ" 
      width="50" 
      height="50"
      hspace="25"
@@ -132,7 +132,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <br>
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGMP17j-gdn7g/profile-displayphoto-shrink_400_400/0/1659712393651?e=1667433600&v=beta&t=nnWj0qN4yOFTxWDXEyBeFwjBCK-egrBHnwKHmHQxLYM" 
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGMP17j-gdn7g/profile-displayphoto-shrink_400_400/0/1659712393651?e=1667433600&v=beta&t=nnWj0qN4yOFTxWDXEyBeFwjBCK-egrBHnwKHmHQxLYM"](https://media-exp1.licdn.com/dms/image/D5603AQFR_YeuwTF8jg/profile-displayphoto-shrink_400_400/0/1666703334082?e=1674086400&v=beta&t=OeOqyDO72h2Qemt5FLP5U5QKApyY-JZ3MBeDGzUKXD8" 
      width="50" 
      height="50"
      hspace="25"
@@ -141,7 +141,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      />[Christian Chase Jr.](https://www.linkedin.com/in/christian-chase/) (2022) - Christian is currently working as a Baseball Operations Intern at MLB and UF Baseball Data Intern. Check out his [baseball website](https://chasechristian7.wixsite.com/christiansbaseballwo).
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQHx6bcJF56fVA/profile-displayphoto-shrink_400_400/0/1654909344953?e=1667433600&v=beta&t=H3Grbxhm9RDLTvWIlrQW4U10HC57OJGZ6twIs6tguy4" 
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQHx6bcJF56fVA/profile-displayphoto-shrink_400_400/0/1654909344953?e=1667433600&v=beta&t=H3Grbxhm9RDLTvWIlrQW4U10HC57OJGZ6twIs6tguy4](https://media-exp1.licdn.com/dms/image/C5603AQHx6bcJF56fVA/profile-displayphoto-shrink_400_400/0/1654909344953?e=1674086400&v=beta&t=gWVlAnSXSAvubsd4mwmKpmAKfMYtM-LjCEn_yH4llb8" 
      width="50" 
      height="50"
      hspace="25"
