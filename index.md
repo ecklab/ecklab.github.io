@@ -7,8 +7,9 @@ At Eck Lab, our mission is to research all things baseball. We study topics rang
 
 ## News 
 
+ - the paper "Comparing baseball players across eras via the novel Full House Model" is now submitted for publication
  - The Eck Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program
- - 08/24 marks the inagural session of the STAT 430 Baseball Analytics course
+ - 08/24 marks the inaugural session of the STAT 430 Baseball Analytics course
  - 08/31 Timmy Trumpet [performs Narco live](https://www.youtube.com/watch?v=8BYSp2pzP0Y&ab_channel=MLB) for Edwin Diaz's entrance. This is not an Eck Lab project, it is just cool
 
 
@@ -16,7 +17,7 @@ At Eck Lab, our mission is to research all things baseball. We study topics rang
 
 **Comparing baseball players across eras** - This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call the [Full House Model](https://arxiv.org/abs/2207.11332). The Full House Model era-adjusts statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
 
-Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacment (ebWAR) and era-adjusted fangraphs wins above replacment (efWAR):
+Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacement (ebWAR) and era-adjusted fangraphs wins above replacment (efWAR):
 
 rank | name | ebWAR | name | efWAR
 | -- | ------- | ---- | ------ | ---- |
