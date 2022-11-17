@@ -65,7 +65,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <img src="https://history.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/burgosjr.png.jpg?itok=_i1SiQt0" 
      width="50" 
-     height="50"
+     height="70"
      hspace="25"
      vspace="10"
      align = "left"
