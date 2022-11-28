@@ -7,10 +7,10 @@ At Eck Lab, our mission is to research all things baseball. We study topics rang
 
 ## News 
 
- - the paper "Comparing baseball players across eras via the novel Full House Model" is now submitted for publication
- - The Eck Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program
- - 08/24 marks the inaugural session of the STAT 430 Baseball Analytics course
- - 08/31 Timmy Trumpet [performs Narco live](https://www.youtube.com/watch?v=8BYSp2pzP0Y&ab_channel=MLB) for Edwin Diaz's entrance. This is not an Eck Lab project, it is just cool
+ - The paper "Comparing baseball players across eras via the novel Full House Model" is now submitted for publication.
+ - The Eck Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
+ - 08/24 marks the inaugural session of the STAT 430 Baseball Analytics course.
+ - 08/31 Timmy Trumpet [performs Narco live](https://www.youtube.com/watch?v=8BYSp2pzP0Y&ab_channel=MLB) for Edwin Diaz's entrance. This is not an Eck Lab project, it is just cool.
 
 
 ## Current projects 
@@ -33,6 +33,14 @@ rank | name | ebWAR | name | efWAR
 10 | Rickey Henderson | 107.79 | Nolan Ryan       | 105.23
 
 *These stats are computed as if all players began their career in 1977; the list above includes both Babe Ruth's batting and pitching WAR*
+
+Those interested in this project should check out our three-part series on this topic:
+
+1. [The Full House Model for cross-era comparisons of baseball players (part I: results and the model)](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/article_I.html)
+
+2. [The Full House Model for cross-era comparisons of baseball players (part II: A deeper look at results and fun digressions)](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/article_II.html)
+
+3. [The Full House Model for cross-era comparisons of baseball players (part III: Social Commentary)](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/article_III.html)
 
 
 **SEAM method for better batted-ball prediction** - We develop the SEAM (synthetic estimated average matchup) method for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spracy charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
