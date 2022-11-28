@@ -147,7 +147,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      hspace="25"
      vspace="10"
      align = "left"
-     />[Christian Chase Jr.](https://www.linkedin.com/in/christian-chase/) (2022) - Christian is currently working as a Baseball Operations Intern at MLB and UF Baseball Data Intern. Check out his [baseball website](https://chasechristian7.wixsite.com/christiansbaseballwo).
+     />[Christian Chase Jr.](https://www.linkedin.com/in/christian-chase/) (2022) - Christian is currently working as a Player Development Intern with the Chicago White Sox. Check out his [baseball website](https://chasechristian7.wixsite.com/christiansbaseballwo).
 
 
 <img src="images/charles_young.jpg" 
