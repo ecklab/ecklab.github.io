@@ -34,7 +34,7 @@ rank | name | ebWAR | name | efWAR
 
 *These stats are computed as if all players began their career in 1977; the list above includes both Babe Ruth's batting and pitching WAR*
 
-Those interested in this project should check out our three-part series on this topic:
+Those interested in this project should check out [our website](https://eckeraadjustment.web.illinois.edu/#rankings) and our accompanying three-part series:
 
 1. [The Full House Model for cross-era comparisons of baseball players (part I: results and the model)](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/article_I.html)
 
