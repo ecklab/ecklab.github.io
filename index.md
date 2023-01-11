@@ -33,15 +33,7 @@ rank | name | ebWAR | name | efWAR
 
 *These stats are computed as if all players began their career in 1977; the list above includes both Babe Ruth's batting and pitching WAR*
 
-Those interested in this project should check out [our website](https://eckeraadjustment.web.illinois.edu/#rankings) and our accompanying three-part series:
-
-1. [The Full House Model for cross-era comparisons of baseball players (part I: results and the model)](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/article_I.html)
-
-2. [The Full House Model for cross-era comparisons of baseball players (part II: A deeper look at results and fun digressions)](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/article_II.html)
-
-3. [The Full House Model for cross-era comparisons of baseball players (part III: Social Commentary)](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/article_III.html)
-
-Check out Daniel Eck's [appearance on the Wharton Moneyball podcast](https://embed.acast.com/$/5b69f70c0a0eca0c20692176/11123-cfb-nfl-covid-mlb-eck-thompson) about this project (starts at 23:45). 
+Those interested in this project should check out [our website](https://eckeraadjustment.web.illinois.edu/#rankings) and Daniel Eck's [appearance on the Wharton Moneyball podcast](https://embed.acast.com/$/5b69f70c0a0eca0c20692176/11123-cfb-nfl-covid-mlb-eck-thompson) (Eck's appearance starts at 23:45, but the whole podcast is great). 
 
 <br>
 
