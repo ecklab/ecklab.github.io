@@ -33,7 +33,9 @@ rank | name | ebWAR | name | efWAR
 
 *These stats are computed as if all players began their career in 1977; the list above includes both Babe Ruth's batting and pitching WAR*
 
-Those interested in this project should check out [our website](https://eckeraadjustment.web.illinois.edu/#rankings) and Daniel Eck's [appearance on the Wharton Moneyball podcast](https://embed.acast.com/$/5b69f70c0a0eca0c20692176/11123-cfb-nfl-covid-mlb-eck-thompson) (Eck's appearance starts at 23:45, but the whole podcast is great). 
+Those interested in this project should check out [our website](https://eckeraadjustment.web.illinois.edu/#rankings). 
+
+Daniel Eck's appearance on the [Wharton Moneyball podcast](https://embed.acast.com/$/5b69f70c0a0eca0c20692176/11123-cfb-nfl-covid-mlb-eck-thompson) (Eck's appearance starts at 23:45, but the whole podcast is great) and his and Adrian Burgos Jr.'s appearances on the [Effectively Wild podcast](https://podcasts.apple.com/us/podcast/effectively-wild-episode-1954-los-got-physical/id545919715?i=1000593873446) (Eck and Burgos appear at 53:34, but the whole podcast is great).
 
 <br>
 
