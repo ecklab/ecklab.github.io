@@ -7,10 +7,11 @@ At Eck Lab, our mission is to research all things baseball. We study topics rang
 
 ## News 
 
- - 12/23 [Our website](https://eckeraadjustment.web.illinois.edu/#rankings) housing era-adjusted statistics for nearly every player in baseball history is now live!
+ - 01/17/23 marks second iteration of the STAT 430 Baseball Analytics course at the University of Illinois.
+ - 12/23/22 [Our website](https://eckeraadjustment.web.illinois.edu/#rankings) housing era-adjusted statistics for nearly every player in baseball history is now live!
  - The paper "Comparing baseball players across eras via the novel Full House Model" is now submitted for publication.
  - The Eck Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
- - 08/24 marks the inaugural session of the STAT 430 Baseball Analytics course.
+ - 08/24/22 marks the inaugural session of the STAT 430 Baseball Analytics course at the University of Illinois.
 
 ## Current projects 
 
