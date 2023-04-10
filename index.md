@@ -1,16 +1,17 @@
 ## Welcome 
 
-Welcome to the Eck Lab! 
+Welcome to the Eck Sports Lab! 
 
-At Eck Lab, our mission is to research all things baseball. We study topics ranging from player evaluation metrics to comparing players across eras. The common thread linking all of our projects is a dedication to high-quality and often innovative statistical and interdisciplinary research with a focus on an accessible and entertaining presentation of our ideas. 
+At Eck Sports Lab, our mission is to research all things baseball. We study topics ranging from player evaluation metrics to comparing players across eras. The common thread linking all of our projects is a dedication to high-quality and often innovative statistical and interdisciplinary research with a focus on an accessible and entertaining presentation of our ideas. 
 
 
 ## News 
 
+ - 03/13/23 [Our era-adjusted methodology](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) was featured on UIUC's College of Liberal Arts and Sciences web page.
  - 01/17/23 marks second iteration of the [STAT 430 Baseball Analytics course](https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics) at the University of Illinois Urbana-Champaign.
  - 12/23/22 [Our website](https://eckeraadjustment.web.illinois.edu/#rankings) housing era-adjusted statistics for nearly every player in baseball history is now live!
  - The paper "Comparing baseball players across eras via the novel Full House Model" is now submitted for publication.
- - The Eck Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
+ - The Eck Sports Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
  - 08/24/22 marks the inaugural session of the [STAT 430 Baseball Analytics course](https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics) at the University of Illinois Urbana-Champaign.
 
 ## Current projects 
