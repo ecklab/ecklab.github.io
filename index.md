@@ -70,7 +70,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/kinson2.png.jpg?itok=Hrw19h36" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/chris_kinson.png" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
 </div> 
  
