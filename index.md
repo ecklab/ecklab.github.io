@@ -55,37 +55,24 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 <div style="display: flex; flex-direction: column;">
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/dje13.png" alt="Person 1" style="width:50px;height:50px; margin-right: 20px;">
+    <img src="images/dje13.png" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://publish.illinois.edu/danieleck/">Daniel J. Eck</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics and has recently developed a topics course devoted to <a href = "https://courses.illinois.edu/schedule/2022/fall/STAT/430">Baseball Analytics</a> at the University of Illinois (see the Syllabus <a href = "images/README.md">here</a>).</p>
 </div>
  
- </div>
-
-<img src="images/dje13.png" 
-     width="50" 
-     height="50"
-     hspace="25"
-     vspace="10"
-     align = "left"
-     /> [Daniel J. Eck](https://publish.illinois.edu/danieleck/) - Daniel is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics and has recently developed a topics course devoted to [Baseball Analytics](https://courses.illinois.edu/schedule/2022/fall/STAT/430) at the University of Illinois (see the Syllabus [here](images/README.md)).
-
-
-<img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photo/IMG_9137.png.jpg?itok=Exi33hhi" 
-     width="50" 
-     height="50"
-     hspace="25"
-     vspace="10"
-     align = "left"
-     />[David Dalpiaz](https://daviddalpiaz.org/) - David is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics.
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photo/IMG_9137.png.jpg?itok=Exi33hhi" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://daviddalpiaz.org/">David Dalpiaz</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics.</p>
+</div>
+ 
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="https://history.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/burgosjr.png.jpg?itok=_i1SiQt0" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://history.illinois.edu/directory/profile/burgosjr">Adrian Burgos Jr.</a> is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles and has taught numerous classes devoted to baseball history. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.</p>
+</div> 
+ 
+</div>
 
 
-<img src="https://history.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/burgosjr.png.jpg?itok=_i1SiQt0" 
-     width="50" 
-     height="50"
-     hspace="25"
-     vspace="10"
-     align = "left"
-     /> [Adrian Burgos Jr.](https://history.illinois.edu/directory/profile/burgosjr) - Adrian is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles and has taught numerous classes devoted to baseball history. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.
+
 
 <img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/kinson2.png.jpg?itok=Hrw19h36" 
      width="50" 
