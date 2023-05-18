@@ -180,13 +180,6 @@ SEAM methodology for context-rich player matchup evaluations [<img src="images/A
      vspace="1"
      align = "center"
      />](https://seam.stat.illinois.edu/index.html) 
-[<img src="images/GitHub.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://github.com/ecklab/seam/) 
 
 <br>
 
