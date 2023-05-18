@@ -1,15 +1,17 @@
-.person-container {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
+<style>
+.image-description {
+  display: table;
 }
 
-.person-image {
-  width: 15px; /* Adjust the image width as needed */
-  height: auto; /* Maintain the aspect ratio */
-  margin-right: 20px;
+.image-description .image {
+  display: table-cell;
+  vertical-align: middle;
+  width: 150px;
+  padding-right: 20px;
 }
 
-.person-description {
-  flex: 1;
+.image-description .text {
+  display: table-cell;
+  vertical-align: middle;
 }
+</style>
