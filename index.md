@@ -52,6 +52,15 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 ## People 
 
+<div style="display: flex; flex-direction: column;">
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/dje13.png" alt="Person 1" style="width:50px;height:50px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://publish.illinois.edu/danieleck/">Daniel J. Eck</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics and has recently developed a topics course devoted to <a href = "https://courses.illinois.edu/schedule/2022/fall/STAT/430">Baseball Analytics</a> at the University of Illinois (see the Syllabus <a href = "images/README.md">here</a>).</p>
+</div>
+ 
+ </div>
+
 <img src="images/dje13.png" 
      width="50" 
      height="50"
