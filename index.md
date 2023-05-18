@@ -42,7 +42,7 @@ Daniel Eck's appearance on the [Wharton Moneyball podcast](https://embed.acast.c
 <br>
 
 
-**SEAM method for better batted-ball prediction** - We develop the SEAM (synthetic estimated average matchup) method for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spracy charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
+**SEAM method for better batted-ball prediction** - We develop the SEAM (synthetic estimated average matchup) method for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
 
 Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analytics Conference:
 
@@ -56,7 +56,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <div class="image-description">
   <div class="image">
-    <img src="images/dje13.png" alt="Person 1" style="max-width: 100%;">
+    <img src="images/dje13.png" alt="Person 1" style="max-width: 10%;">
   </div>
   <div class="text">
   
