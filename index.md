@@ -68,40 +68,32 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
     <img src="https://history.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/burgosjr.png.jpg?itok=_i1SiQt0" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://history.illinois.edu/directory/profile/burgosjr">Adrian Burgos Jr.</a> is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles and has taught numerous classes devoted to baseball history. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.</p>
 </div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/kinson2.png.jpg?itok=Hrw19h36" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
+</div> 
+ 
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/shenyan.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> is a Statistics PhD student at the University of Illinois Urbana-Champaign. He has played a leading role in the development of the Full House Model.</p>
+</div> 
+ 
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/colin_alberts.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> is an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He is working on optimal fielder placement.</p>
+</div>
+ 
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/fieldOdreams.png" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> is a Statistics BS student at the University of Illinois Urbana-Champaign. He is working on a baseball season simulator with the Chicago Cubs.</p>
+</div> 
  
 </div>
 
 
+## Alumni 
 
-
-<img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/kinson2.png.jpg?itok=Hrw19h36" 
-     width="50" 
-     height="50"
-     hspace="25"
-     vspace="10"
-     align = "left"
-     />[Christopher Kinson](https://chriskinson.com/) - Christopher is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.
-
-
-<img src="images/shenyan.jpg" 
-     width="50" 
-     height="50"
-     hspace="25"
-     vspace="10"
-     align = "left"
-     />[Shen Yan](https://www.linkedin.com/in/shen-yan-87a09812b/) - Shen is a Statistics PhD student at the University of Illinois Urbana-Champaign.
-
-<br>
-
-<img src="images/colin_alberts.jpg" 
-     width="50" 
-     height="50"
-     hspace="25"
-     vspace="10"
-     align = "left"
-     />[Colin Alberts](https://www.linkedin.com/in/colin-alberts/) - Colin is an Applied Mathematics MS student at the University of Illinois Urbana-Champaign.
-
-<br>
 
 <img src="images/jack_banks.jpg" 
      width="50" 
@@ -110,21 +102,6 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      vspace="10"
      align = "left"
      />[Jack C. Banks](https://www.linkedin.com/in/jack-banks2/) - Jack is a Statistics BS student at the University of Illinois Urbana-Champaign. Check out his [website](http://jackbanks.web.illinois.edu/).
-
-<br>
-
-<img src="images/fieldOdreams.png" 
-     width="50" 
-     height="50"
-     hspace="25"
-     vspace="10"
-     align = "left"
-     />[Michael Escobedo](https://www.linkedin.com/in/michael-escobedo-76b452209/) - Michael is a Statistics BS student at the University of Illinois Urbana-Champaign. 
-
-
-<br>
-
-## Alumni 
 
 <img src="images/julia_wapner.jpg" 
      width="50" 
