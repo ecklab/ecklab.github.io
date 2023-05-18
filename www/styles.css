@@ -1,17 +1,16 @@
 <style>
 .image-description {
-  display: table;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
 }
 
-.image-description .image {
-  display: table-cell;
-  vertical-align: middle;
-  width: 150px;
-  padding-right: 20px;
+.image-description img {
+  flex: 0 0 50px;
+  margin-right: 20px;
 }
 
 .image-description .text {
-  display: table-cell;
-  vertical-align: middle;
+  flex: 1;
 }
 </style>
