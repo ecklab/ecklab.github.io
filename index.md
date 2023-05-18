@@ -121,7 +121,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 ## Papers and resources 
 
- - Challenging notalgia and performance metrics in baseball [<img src="images/article.png" 
+Challenging notalgia and performance metrics in baseball [<img src="images/article.png" 
      width="20" 
      height="20"
      hspace="1"
@@ -151,16 +151,16 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
      />](https://github.com/ecklab/challenging_nostalgia) 
      
 
- - Comparing baseball players across eras via the novel Full House Model [<img src="images/ArXiv.png" 
-     width="30" 
+Comparing baseball players across eras via the novel Full House Model [<img src="images/ArXiv.png" 
+     width="20" 
      height="20"
      hspace="1"
      vspace="1"
      align = "center"
      />](https://arxiv.org/abs/2207.11332) 
 
- - SEAM methodology for context-rich player matchup evaluations [<img src="images/ArXiv.png" 
-     width="30" 
+SEAM methodology for context-rich player matchup evaluations [<img src="images/ArXiv.png" 
+     width="20" 
      height="20"
      hspace="1"
      vspace="1"
