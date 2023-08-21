@@ -7,6 +7,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ## News 
 
+ - 08/12/23 Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
  - 03/13/23 [Our era-adjusted methodology and interdisciplinary collaboration](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) was featured by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
  - 01/17/23 marks second iteration of the [STAT 430 Baseball Analytics course](https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics) at the University of Illinois Urbana-Champaign.
  - 12/23/22 [Our website](https://eckeraadjustment.web.illinois.edu/#rankings) housing era-adjusted statistics for nearly every player in baseball history is now live!
