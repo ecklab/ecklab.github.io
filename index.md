@@ -84,12 +84,22 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
     <img src="images/colin_alberts.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> is an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He is working on optimal fielder placement.</p>
 </div>
- 
+
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/fieldOdreams.png" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> is a Statistics BS student at the University of Illinois Urbana-Champaign. He is working on a baseball season simulator with the Chicago Cubs.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jamin-kim-69aa7920a/">Jamin Kim</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
- 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/fieldOdreams.png" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/fieldOdreams.png" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;">Henry Young is a Journalism student at the University of Illinois Urbana-Champaign. He is writing feature articles on players which incoporate era-adjusted statistics obtained via Full House Modeling.</p>
+</div> 
+  
 </div>
 
 
@@ -101,19 +111,24 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
     <img src="images/jack_banks.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) will be joining the New York Yankees as a Quantitative Analyst Associate. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
 </div>
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/fieldOdreams.png" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> (2023) is a Statistics BS student at the University of Illinois Urbana-Champaign. He worked on a baseball season simulator with the Chicago Cubs.</p>
+</div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/julia_wapner.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/julia_wapner.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/julia-wapner-72b418199/">Julia Wapner</a> (2022) is currently working as an Analytics Fellow with the Baltimore Orioles. She helped develop the second version (current version) of the SEAM application.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/christian_chase.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/christian_chase.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>".</p>
 </div>  
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/charles_young.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/charles_young.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/charles-young-2aa709136/">Charles Young</a> (2020) is currently working as a Senior Front-End Developer with the Houston Astros. He helped develop the first version of the SEAM application. He created the Illini Analytics group at University of Illinois Urbana-Champaign. His collaborations with physicist and baseball expert <a href = "http://baseball.physics.illinois.edu/">Alan Nathan</a> and the UIUC baseball team were made into a <a href = "https://www.youtube.com/watch?v=mcHA385-6P0">documentary</a>.</p>
 </div>   
  
