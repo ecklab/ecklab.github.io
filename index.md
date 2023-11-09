@@ -97,7 +97,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/fieldOdreams.png" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;">Henry Young is a Journalism student at the University of Illinois Urbana-Champaign. He is writing feature articles on players which incoporate era-adjusted statistics obtained via Full House Modeling.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/henry-y-03684a250/">Henry Young</a> is a Journalism student at the University of Illinois Urbana-Champaign. He is writing feature articles on players which incoporate era-adjusted statistics obtained via Full House Modeling.</p>
 </div> 
   
 </div>
