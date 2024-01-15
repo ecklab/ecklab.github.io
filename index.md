@@ -19,7 +19,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 **Comparing baseball players across eras** - This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call the [Full House Model](https://arxiv.org/abs/2207.11332). The Full House Model era-adjusts statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
 
-Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacement (ebWAR) and era-adjusted fangraphs wins above replacment (efWAR):
+Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacement (ebWAR) and era-adjusted fangraphs wins above replacement (efWAR):
 
 rank | name | ebWAR | name | efWAR
 | -- | ------- | ---- | ------ | ---- |
@@ -61,8 +61,8 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 </div>
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="https://stat.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photo/IMG_9137.png.jpg?itok=Exi33hhi" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://daviddalpiaz.org/">David Dalpiaz</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics.</p>
+    <img src="images/ddalpiaz.png" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://daviddalpiaz.org/">David Dalpiaz</a> is a Computer Science professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics.</p>
 </div>
  
 <div style="display: flex; margin-bottom: 20px;">
@@ -71,7 +71,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/chris_kinson.png" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/chris_kinson.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
 </div> 
  
@@ -97,7 +97,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/fieldOdreams.png" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/henry-y-03684a250/">Henry Young</a> is a Journalism student at the University of Illinois Urbana-Champaign. He is writing feature articles on players which incoporate era-adjusted statistics obtained via Full House Modeling.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/henry-y-03684a250/">Henry Young</a> is a Journalism student at the University of Illinois Urbana-Champaign. He is writing feature articles on players which incorporate era-adjusted statistics obtained via Full House Modeling.</p>
 </div> 
   
 </div>
