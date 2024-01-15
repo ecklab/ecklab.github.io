@@ -66,7 +66,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 </div>
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="https://history.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photos/burgosjr.png.jpg?itok=_i1SiQt0" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/burgosjr.png" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://history.illinois.edu/directory/profile/burgosjr">Adrian Burgos Jr.</a> is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles and has taught numerous classes devoted to baseball history. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.</p>
 </div> 
 
