@@ -109,7 +109,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/jack_banks.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) will be joining the New York Yankees as a Quantitative Analyst Associate. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Quantitative Analysis Associate for the New York Yankees as a Quantitative Analyst Associate. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
@@ -119,12 +119,12 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
  
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/julia_wapner.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/julia-wapner-72b418199/">Julia Wapner</a> (2022) is currently working as an Analytics Fellow with the Baltimore Orioles. She helped develop the second version (current version) of the SEAM application.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/julia-wapner-72b418199/">Julia Wapner</a> (2022) is currently working as a Junior Data Scientist for the Baltimore Orioles. She helped develop the second version (current version) of the SEAM application.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/christian_chase.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>".</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>", and is currently a J.D. Candidate at Vanderbilt University Law School.</p>
 </div>  
  
 <div style="display: flex; margin-bottom: 20px;">
