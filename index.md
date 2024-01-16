@@ -7,13 +7,10 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ## News 
 
+ - 01/16/24 marks the third iteration of the STAT 430: Baseball Analytics course.
  - 08/12/23 Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
  - 03/13/23 [Our era-adjusted methodology and interdisciplinary collaboration](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) was featured by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
- - 01/17/23 marks second iteration of the [STAT 430 Baseball Analytics course](https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics) at the University of Illinois Urbana-Champaign.
- - 12/23/22 [Our website](https://eckeraadjustment.web.illinois.edu/#rankings) housing era-adjusted statistics for nearly every player in baseball history is now live!
- - The paper "Comparing baseball players across eras via the novel Full House Model" is now submitted for publication.
  - The Eck Sports Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
- - 08/24/22 marks the inaugural session of the [STAT 430 Baseball Analytics course](https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics) at the University of Illinois Urbana-Champaign.
 
 ## Current projects 
 
@@ -59,17 +56,17 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
     <img src="images/dje13.png" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://publish.illinois.edu/danieleck/">Daniel J. Eck</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics and has recently developed a topics course devoted to <a href = "https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics">Baseball Analytics</a>.</p>
 </div>
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/burgosjr.png" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://history.illinois.edu/directory/profile/burgosjr">Adrian Burgos Jr.</a> is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles and has taught numerous classes devoted to baseball history. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.</p>
+</div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/ddalpiaz.png" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/ddalpiaz.png" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://daviddalpiaz.org/">David Dalpiaz</a> is a Computer Science professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics.</p>
 </div>
  
-<div style="display: flex; margin-bottom: 20px;">
-    <img src="images/burgosjr.png" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://history.illinois.edu/directory/profile/burgosjr">Adrian Burgos Jr.</a> is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles and has taught numerous classes devoted to baseball history. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.</p>
-</div> 
-
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/chris_kinson.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
@@ -109,7 +106,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/jack_banks.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Quantitative Analysis Associate for the New York Yankees as a Quantitative Analyst Associate. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Quantitative Analysis Associate for the New York Yankees. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
