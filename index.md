@@ -10,7 +10,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
  - 03/26/24 Version 2.0 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) are now available.
  - 01/16/24 marks the third iteration of the STAT 430: Baseball Analytics course.
  - 08/12/23 Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
- - 03/13/23 [Our era-adjusted methodology and interdisciplinary collaboration](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) was featured by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
+ - 03/13/23 Our era-adjusted methodology and interdisciplinary collaboration was featured by the [College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages).
  - The Eck Sports Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
 
 ## Current projects 
