@@ -92,11 +92,6 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
     <img src="images/ryan_to.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
-
-<div style="display: flex; margin-bottom: 20px;">
-    <img src="images/fieldOdreams.png" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/henry-y-03684a250/">Henry Young</a> is a Journalism student at the University of Illinois Urbana-Champaign. He is writing feature articles on players which incorporate era-adjusted statistics obtained via Full House Modeling.</p>
-</div> 
   
 </div>
 
