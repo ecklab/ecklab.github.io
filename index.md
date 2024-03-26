@@ -7,6 +7,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ## News 
 
+ - 03/26/24 Version 2.0 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) are now available.
  - 01/16/24 marks the third iteration of the STAT 430: Baseball Analytics course.
  - 08/12/23 Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
  - 03/13/23 [Our era-adjusted methodology and interdisciplinary collaboration](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) was featured by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
@@ -20,18 +21,18 @@ Here is a snapshot of our current results. Below is the top 10 list according to
 
 rank | name | ebWAR | name | efWAR
 | -- | ------- | ---- | ------ | ---- |
-1  | Barry Bonds      | 154.80 | Barry Bonds      | 152.69
-2  | Willie Mays      | 145.47 | Willie Mays      | 138.04
-3  | Roger Clemens    | 141.78 | Roger Clemens    | 131.18
-4  | Hank Aaron       | 129.65 | Hank Aaron       | 125.00
-5  | Babe Ruth        | 122.81 | Babe Ruth        | 119.16
-6  | Alex Rodriguez   | 121.01 | Alex Rodriguez   | 116.66
-7  | Greg Maddux      | 111.58 | Greg Maddux      | 115.29
-8  | Albert Pujols    | 111.03 | Mike Schmidt     | 107.80
-9  | Mike Schmidt     | 110.43 | Rickey Henderson | 106.86
-10 | Rickey Henderson | 107.79 | Nolan Ryan       | 105.23
+1  | Barry Bonds	| 153.89 | Barry Bonds	  | 145.24
+2  | Roger Clemens	| 145.88 | Roger Clemens  | 141.25
+3  | Willie Mays	| 144.08 | Willie Mays	  | 135.39
+4  | Babe Ruth		| 137.98 | Henry Aaron	  | 128.05
+5  | Henry Aaron	| 135.6  | Greg Maddux	  | 120.73
+6  | Alex Rodriguez	| 120.29 | Babe Ruth	  | 120.28
+7  | Stan Musial	| 119.51 | Stan Musial	  | 113.03
+8  | Ty Cobb		| 114.48 | Alex Rodriguez | 110.3
+9  | Greg Maddux	| 113.66 | Randy Johnson  | 109.77
+10 | Albert Pujols	| 111.86 | Ty Cobb	  | 108.77
 
-*These stats are computed as if all players began their career in 1977; the list above includes both Babe Ruth's batting and pitching WAR*
+*The list above combines Babe Ruth's batting and pitching WAR*
 
 Those interested in this project should check out [our website](https://eckeraadjustment.web.illinois.edu/#rankings). 
 
