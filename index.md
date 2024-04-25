@@ -7,15 +7,16 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ## News 
 
+ - **04/26/24**: We have a new version of our [preprint](https://arxiv.org/abs/2207.11332v2) on comparing baseball players across eras.
  - **03/26/24**: Version 2.0 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) are now available.
- - **01/16/24**: marks the third iteration of the STAT 430: Baseball Analytics course.
+ - **01/16/24**: The third iteration of the STAT 430: Baseball Analytics is starting.
  - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
  - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was featured by the [College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages).
  - The Eck Sports Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
 
 ## Current projects 
 
-**Comparing baseball players across eras** - This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call the [Full House Model](https://arxiv.org/abs/2207.11332). The Full House Model era-adjusts statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
+**Comparing baseball players across eras** - This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call the [Full House Model](https://arxiv.org/abs/2207.11332v2). The Full House Model era-adjusts statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
 
 Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacement (ebWAR) and era-adjusted fangraphs wins above replacement (efWAR):
 
@@ -36,7 +37,7 @@ rank | name | ebWAR | name | efWAR
 
 Those interested in this project should check out [our website](https://eckeraadjustment.web.illinois.edu/#rankings). 
 
-Daniel Eck's appearance on the [Wharton Moneyball podcast](https://embed.acast.com/$/5b69f70c0a0eca0c20692176/11123-cfb-nfl-covid-mlb-eck-thompson) (Eck's appearance starts at 23:45, but the whole podcast is great) and his and Adrian Burgos Jr.'s appearances on the [Effectively Wild podcast](https://podcasts.apple.com/us/podcast/effectively-wild-episode-1954-los-got-physical/id545919715?i=1000593873446) (Eck and Burgos appear at 53:34, but the whole podcast is great).
+Listen to Daniel Eck and Adrian Burgos Jr.'s discuss our work on the [Effectively Wild podcast](https://podcasts.apple.com/us/podcast/effectively-wild-episode-1954-los-got-physical/id545919715?i=1000593873446) (Eck and Burgos appear at 53:34). Daniel Eck also discussed this work on the [Wharton Moneyball podcast](https://embed.acast.com/$/5b69f70c0a0eca0c20692176/11123-cfb-nfl-covid-mlb-eck-thompson) (Eck's appearance starts at 23:45)
 
 <br>
 
@@ -166,7 +167,7 @@ Comparing baseball players across eras via the novel Full House Model [<img src=
      hspace="1"
      vspace="1"
      align = "center"
-     />](https://arxiv.org/abs/2207.11332) 
+     />](https://arxiv.org/abs/2207.11332v2) 
 
 SEAM methodology for context-rich player matchup evaluations [<img src="images/ArXiv.png" 
      width="20" 
