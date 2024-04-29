@@ -8,6 +8,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 ## News 
 
  - **04/26/24**: We have a new version of our [preprint](https://arxiv.org/abs/2207.11332v2) on comparing baseball players across eras.
+ - **04/26/24**: Colin Alberts finished his Master's thesis on fielder placement optimization. See his GitHub repo [here](https://github.com/colalb1/SEAM-Fielder-Optimization).
  - **03/26/24**: Version 2.0 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) are now available.
  - **01/16/24**: The third iteration of the STAT 430: Baseball Analytics is starting.
  - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
@@ -42,7 +43,7 @@ Listen to Daniel Eck and Adrian Burgos Jr.'s discuss our work on the [Effectivel
 <br>
 
 
-**SEAM method for better batted-ball prediction** - We develop the SEAM (synthetic estimated average matchup) method for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
+**SEAM method for better batted-ball prediction** - We developed SEAM (synthetic estimated average matchup) methodology for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
 
 Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analytics Conference:
 
@@ -73,24 +74,14 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
     <img src="images/chris_kinson.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
 </div> 
- 
-<div style="display: flex; margin-bottom: 20px;">
-    <img src="images/shenyan.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> is a Statistics PhD student at the University of Illinois Urbana-Champaign. He has played a leading role in the development of the Full House Model.</p>
-</div> 
- 
-<div style="display: flex; margin-bottom: 20px;">
-    <img src="images/colin_alberts.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> is an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He is working on optimal fielder placement.</p>
-</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/jamin_kim.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/jamin_kim.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jamin-kim-69aa7920a/">Jamin Kim</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/ryan_to.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/ryan_to.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
   
@@ -102,27 +93,37 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 <div style="display: flex; flex-direction: column;">
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/jack_banks.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/shenyan.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> (2024) is currently a postdoc with Professor Bo Li in the Department of Statistics and Data Science at Washington University in St Louis. He successfully defended his PhD dissertation on Full House Methodology from the University of Illinois Urbana-Champaign.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/colin_alberts.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> (2024) is a data scientist at CISCO. He was an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He completed a Master's theis on working on fielder placement optimization. See his GitHub repo <a href = "https://github.com/colalb1/SEAM-Fielder-Optimization">here</a>.</p>
+</div>
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/jack_banks.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Quantitative Analysis Associate for the New York Yankees. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/fieldOdreams.png" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/fieldOdreams.png" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> (2023) is a Statistics BS student at the University of Illinois Urbana-Champaign. He worked on a baseball season simulator with the Chicago Cubs.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/julia_wapner.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/julia_wapner.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/julia-wapner-72b418199/">Julia Wapner</a> (2022) is currently working as a Junior Data Scientist for the Baltimore Orioles. She helped develop the second version (current version) of the SEAM application.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/christian_chase.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/christian_chase.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>", and is currently a J.D. Candidate at Vanderbilt University Law School.</p>
 </div>  
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/charles_young.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/charles_young.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/charles-young-2aa709136/">Charles Young</a> (2020) is currently working as a Senior Front-End Developer with the Houston Astros. He helped develop the first version of the SEAM application. He created the Illini Analytics group at University of Illinois Urbana-Champaign. His collaborations with physicist and baseball expert <a href = "http://baseball.physics.illinois.edu/">Alan Nathan</a> and the UIUC baseball team were made into a <a href = "https://www.youtube.com/watch?v=mcHA385-6P0">documentary</a>.</p>
 </div>   
  
