@@ -7,7 +7,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ## News 
 
- - **04/26/24**: We have a new version of our [preprint](https://arxiv.org/abs/2207.11332v2) on comparing baseball players across eras.
+ - **11/17/24**: Our paper "Comparing baseball players across eras via novel Full House Modeling" has been accepted for publication at Annals of Applied Statistics!
  - **04/26/24**: Colin Alberts finished his Master's thesis on fielder placement optimization. See his GitHub repo [here](https://github.com/colalb1/SEAM-Fielder-Optimization).
  - **03/26/24**: Version 2.0 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) are now available.
  - **01/16/24**: The third iteration of the STAT 430: Baseball Analytics is starting.
@@ -17,7 +17,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ## Current projects 
 
-**Comparing baseball players across eras** - This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call the [Full House Model](https://arxiv.org/abs/2207.11332v2). The Full House Model era-adjusts statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
+**Comparing baseball players across eras** - This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://arxiv.org/abs/2207.11332v2). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
 
 Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacement (ebWAR) and era-adjusted fangraphs wins above replacement (efWAR):
 
