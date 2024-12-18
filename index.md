@@ -7,7 +7,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ## News 
 
- - **11/17/24**: Our paper "Comparing baseball players across eras via novel Full House Modeling" has been accepted for publication at Annals of Applied Statistics!
+ - **11/17/24**: Our paper "Comparing baseball players across eras via novel Full House Modeling" has been accepted for publication at Annals of Applied Statistics! The forthcoming preprint can be found [here](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/) and [here](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4).
  - **04/26/24**: Colin Alberts finished his Master's thesis on fielder placement optimization. See his GitHub repo [here](https://github.com/colalb1/SEAM-Fielder-Optimization).
  - **03/26/24**: Version 2.0 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) are now available.
  - **01/16/24**: The third iteration of the STAT 430: Baseball Analytics is starting.
