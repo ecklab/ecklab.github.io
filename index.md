@@ -8,7 +8,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 ## News and Events
 
  - **03/25/25**: Version 2.1 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) is now available. This version includes era-adjusted statistics through the 2024 season.
- - **01/21/25**: The fourth iteration of the STAT 430: Baseball Analytics class just started.
+ - **01/21/25**: The fourth iteration of the STAT 430: Baseball Analytics class at University of Illinois Urbana-Champaign is underway.
  - **11/17/24**: Our paper "Comparing baseball players across eras via novel Full House Modeling" has been accepted for publication at Annals of Applied Statistics! The forthcoming preprint can be accessed [here](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4).
  - **04/26/24**: Colin Alberts finished his Master's thesis on fielder placement optimization. See his GitHub repo [here](https://github.com/colalb1/SEAM-Fielder-Optimization).
  - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
