@@ -12,7 +12,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
  - **11/17/24**: Our paper "Comparing baseball players across eras via novel Full House Modeling" has been accepted for publication at Annals of Applied Statistics! The forthcoming preprint can be accessed [here](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4).
  - **04/26/24**: Colin Alberts finished his Master's thesis on fielder placement optimization. See his GitHub repo [here](https://github.com/colalb1/SEAM-Fielder-Optimization).
  - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
- - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was featured by the [College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages).
+ - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was [featured](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
  - The Eck Sports Lab is collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
 
 ## Current Projects 
