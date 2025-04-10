@@ -1,6 +1,6 @@
 ## Welcome 
 
-Welcome to the Eck Sports Lab! 
+Welcome to Eck Sports Lab! 
 
 At Eck Sports Lab, our mission is to research all things sports with a current focus on baseball. We study topics ranging from player evaluation metrics to comparing baseball players across eras. The common thread linking all of our projects is a dedication to high-quality and often innovative statistical and interdisciplinary research with a focus on an accessible and entertaining presentation of our ideas. 
 
