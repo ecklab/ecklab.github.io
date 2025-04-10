@@ -96,12 +96,12 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/idrees_muhammad_kudaimi" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/idrees_muhammad_kudaimi.jpg" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> is a Chemistry student at the University of Illinois Urbana-Champaign. He is developing public-facing content for our comparing players across eras project.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/mohit_singh" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/mohit_singh.jpg" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/mohit-singh-5b4b351b3/">Mohit Singh</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is developing public-facing content for our comparing players across eras project.</p>
 </div> 
 
