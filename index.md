@@ -7,10 +7,10 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ## News 
 
+ - **01/21/25**: The fourth iteration of the STAT 430: Baseball Analytics class just started.
  - **11/17/24**: Our paper "Comparing baseball players across eras via novel Full House Modeling" has been accepted for publication at Annals of Applied Statistics! The forthcoming preprint can be accessed [here](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4).
  - **04/26/24**: Colin Alberts finished his Master's thesis on fielder placement optimization. See his GitHub repo [here](https://github.com/colalb1/SEAM-Fielder-Optimization).
  - **03/26/24**: Version 2.0 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) are now available.
- - **01/16/24**: The third iteration of the STAT 430: Baseball Analytics is starting.
  - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
  - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was featured by the [College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages).
  - The Eck Sports Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
@@ -23,16 +23,16 @@ Here is a snapshot of our current results. Below is the top 10 list according to
 
 rank | name | ebWAR | name | efWAR
 | -- | ------- | ---- | ------ | ---- |
-1  | Barry Bonds	| 153.89 | Barry Bonds	  | 145.24
-2  | Roger Clemens	| 145.88 | Roger Clemens  | 141.25
-3  | Willie Mays	| 144.08 | Willie Mays	  | 135.39
-4  | Babe Ruth		| 137.98 | Henry Aaron	  | 128.05
-5  | Henry Aaron	| 135.6  | Greg Maddux	  | 120.73
-6  | Alex Rodriguez	| 120.29 | Babe Ruth	  | 120.28
-7  | Stan Musial	| 119.51 | Stan Musial	  | 113.03
-8  | Ty Cobb		| 114.48 | Alex Rodriguez | 110.3
-9  | Greg Maddux	| 113.66 | Randy Johnson  | 109.77
-10 | Albert Pujols	| 111.86 | Ty Cobb	  | 108.77
+1  | Barry Bonds	| 154.71 | Barry Bonds	  | 145.57
+2  | Willie Mays	| 145.30 | Roger Clemens  | 140.75
+3  | Roger Clemens	| 144.38 | Willie Mays	  | 135.78
+4  | Babe Ruth		| 138.64 | Henry Aaron	  | 127.96
+5  | Henry Aaron	| 135.67 | Greg Maddux	  | 120.91
+6  | Alex Rodriguez	| 120.64 | Babe Ruth	  | 120.6
+7  | Stan Musial	| 119.37 | Stan Musial	  | 112.79
+8  | Ty Cobb		| 115    | Alex Rodriguez | 110.52
+9  | Greg Maddux	| 113.55 | Randy Johnson  | 109.78
+10 | Albert Pujols	| 111.95 | Ty Cobb	  | 108.95
 
 *The list above combines Babe Ruth's batting and pitching WAR*
 
@@ -76,15 +76,25 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/jamin_kim.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jamin-kim-69aa7920a/">Jamin Kim</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+    <img src="images/ryan_to.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/ryan_to.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+    <img src="images/ashrith_anumala.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Ashrith Anumala</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/colin_doherty.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Colin Doherty</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
   
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/colin_doherty.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Colin Doherty</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+</div> 
+
 </div>
 
 
@@ -99,31 +109,36 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/colin_alberts.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> (2024) is a data scientist at CISCO. He was an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He completed a Master's theis on working on fielder placement optimization. See his GitHub repo <a href = "https://github.com/colalb1/SEAM-Fielder-Optimization">here</a>.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> (2024) is a data scientist at CISCO. He was an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He completed a Master's thesis on working on fielder placement optimization. See his GitHub repo <a href = "https://github.com/colalb1/SEAM-Fielder-Optimization">here</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/jack_banks.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Quantitative Analysis Associate for the New York Yankees. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
+    <img src="images/jamin_kim.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jamin-kim-69aa7920a/">Jamin Kim</a> (2024) is a recent Statistics graduate at the University of Illinois Urbana-Champaign. He worked on a baseball game simulator with the Chicago Cubs.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/jack_banks.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Performance Science Analyst for the New York Yankees. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/fieldOdreams.png" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/fieldOdreams.png" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> (2023) is a Statistics BS student at the University of Illinois Urbana-Champaign. He worked on a baseball season simulator with the Chicago Cubs.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/julia_wapner.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/julia_wapner.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/julia-wapner-72b418199/">Julia Wapner</a> (2022) is currently working as a Junior Data Scientist for the Baltimore Orioles. She helped develop the second version (current version) of the SEAM application.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/christian_chase.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/christian_chase.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>", and is currently a J.D. Candidate at Vanderbilt University Law School.</p>
 </div>  
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/charles_young.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/charles_young.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/charles-young-2aa709136/">Charles Young</a> (2020) is currently working as a Senior Front-End Developer with the Houston Astros. He helped develop the first version of the SEAM application. He created the Illini Analytics group at University of Illinois Urbana-Champaign. His collaborations with physicist and baseball expert <a href = "http://baseball.physics.illinois.edu/">Alan Nathan</a> and the UIUC baseball team were made into a <a href = "https://www.youtube.com/watch?v=mcHA385-6P0">documentary</a>.</p>
 </div>   
  
