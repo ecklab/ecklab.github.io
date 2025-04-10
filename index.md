@@ -13,7 +13,7 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
  - **03/26/24**: Version 2.0 of our [era-adjusted statistics](https://eckeraadjustment.web.illinois.edu/#rankings) are now available.
  - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
  - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was featured by the [College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages).
- - The Eck Sports Lab is now collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
+ - The Eck Sports Lab is collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
 
 ## Current projects 
 
@@ -82,17 +82,27 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/ashrith_anumala.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Ashrith Anumala</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ashrithanumala/">Ashrith Anumala</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/colin_doherty.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Colin Doherty</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colinmdoherty/">Colin Doherty</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
   
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/colin_doherty.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Colin Doherty</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+    <img src="images/zheer_wang.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/zheer-wang/">Ava (Zheer) Wang</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. She is developing public-facing content for our comparing players across eras project.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/idrees_muhammad_kudaimi" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> is a Chemistry student at the University of Illinois Urbana-Champaign. He is developing public-facing content for our comparing players across eras project.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/mohit_singh" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/mohit-singh-5b4b351b3/">Mohit Singh</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is developing public-facing content for our comparing players across eras project.</p>
 </div> 
 
 </div>
@@ -147,7 +157,7 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 ## Papers and resources 
 
-Challenging notalgia and performance metrics in baseball [<img src="images/article.png" 
+Challenging nostalgia and performance metrics in baseball [<img src="images/article.png" 
      width="20" 
      height="20"
      hspace="1"
@@ -177,7 +187,7 @@ Challenging notalgia and performance metrics in baseball [<img src="images/artic
      />](https://github.com/ecklab/challenging_nostalgia) 
      
 
-Comparing baseball players across eras via the novel Full House Model [<img src="images/ArXiv.png" 
+Comparing baseball players across eras via novel Full House Modeling [<img src="images/ArXiv.png" 
      width="20" 
      height="20"
      hspace="1"
