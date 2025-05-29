@@ -150,73 +150,10 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
  
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/charles_young.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/charles-young-2aa709136/">Charles Young</a> (2020) is currently working as a Senior Front-End Developer with the Houston Astros. He helped develop the first version of the SEAM application. He created the Illini Analytics group at University of Illinois Urbana-Champaign. His collaborations with physicist and baseball expert <a href = "http://baseball.physics.illinois.edu/">Alan Nathan</a> and the UIUC baseball team were made into a <a href = "https://www.youtube.com/watch?v=mcHA385-6P0">documentary</a>.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/charles-young-2aa709136/">Charles Young</a> (2020) is currently working as a Senior Software Engineer with the Pittsburgh Pirates. He helped develop the first version of the SEAM application. He created the Illini Analytics group at University of Illinois Urbana-Champaign. His collaborations with physicist and baseball expert <a href = "http://baseball.physics.illinois.edu/">Alan Nathan</a> and the UIUC baseball team were made into a <a href = "https://www.youtube.com/watch?v=mcHA385-6P0">documentary</a>.</p>
 </div>   
  
 </div> 
-
-
-## Papers and Resources 
-
-Challenging nostalgia and performance metrics in baseball [<img src="images/article.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://www.tandfonline.com/doi/full/10.1080/09332480.2020.1726114) 
-[<img src="images/FanGraphs.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://community.fangraphs.com/challenging-war-and-other-statistics-as-era-adjustment-tools/) 
-[<img src="images/R.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://deck13.shinyapps.io/challenging_baseball_nostalgia/) 
-[<img src="images/GitHub.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://github.com/ecklab/challenging_nostalgia) 
-     
-
-Comparing baseball players across eras via novel Full House Modeling [<img src="images/ArXiv.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://arxiv.org/abs/2207.11332v2) 
-
-SEAM methodology for context-rich player matchup evaluations [<img src="images/ArXiv.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://arxiv.org/abs/2005.07742) 
-[<img src="images/FanGraphs.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://community.fangraphs.com/seam-methodology-for-player-matchup-evaluations/) 
-[<img src="images/R.png" 
-     width="20" 
-     height="20"
-     hspace="1"
-     vspace="1"
-     align = "center"
-     />](https://seam.stat.illinois.edu/index.html) 
 
 <br>
 
