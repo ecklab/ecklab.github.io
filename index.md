@@ -5,25 +5,11 @@ Welcome to Eck Sports Lab!
 At Eck Sports Lab, our mission is to research all things sports with a current focus on baseball. We study topics ranging from player evaluation metrics to comparing baseball players across eras. The common thread linking all of our projects is a dedication to high-quality and often innovative statistical and interdisciplinary research with a focus on an accessible and entertaining presentation of our ideas. 
 
 
-## Recent News and Events
-
- - **07/08/25**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=Rb1xX6kUO84) on an under-appreciated all-time great player.
- - **05/29/25**: Our paper "Comparing baseball players across eras via novel Full House Modeling" has been published at *Annals of Applied Statistics*! [See here](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). A preprint can be accessed [here](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4). Our interdisciplinary publication was highlighted by the [UIUC Statistics Department](https://stat.illinois.edu/news/2025-06-02/illinois-researchers-publish-interdisciplinary-era-adjusting-baseball-study).
- - **05/27/25**: Our era-adjusted WAR stat was featured by Foolish Baseball in his new tour de force video on Hank Aaron's unparalleled consistency. [See here](https://www.youtube.com/watch?v=k_3aAw5iY4k).
- - **03/25/25**: Version 2.1 of our [era-adjusted statistics website](https://eckeraadjustment.web.illinois.edu/#rankings) is now available. This version includes era-adjusted statistics through the 2024 season.
- - **01/21/25**: The fourth iteration of the STAT 430: Baseball Analytics class at University of Illinois Urbana-Champaign is underway.
-
-## Historical Milestones
-
- - The Eck Sports Lab is collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
- - **04/26/24**: Colin Alberts finished his Master's thesis on fielder placement optimization. See his GitHub repo [here](https://github.com/colalb1/SEAM-Fielder-Optimization).
- - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
- - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was [featured](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
-
-
 ## Current Projects 
 
-**Comparing baseball players across eras** - This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
+### Comparing Baseball Players Across Eras
+
+This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
 
 Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacement (ebWAR) and era-adjusted fangraphs wins above replacement (efWAR):
 
@@ -49,7 +35,9 @@ Listen to Daniel Eck and Adrian Burgos Jr.'s discuss our work on the [Effectivel
 <br>
 
 
-**SEAM method for better batted-ball prediction** - We developed SEAM (synthetic estimated average matchup) methodology for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
+### SEAM method for better batted-ball prediction
+
+We developed SEAM (synthetic estimated average matchup) methodology for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
 
 Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analytics Conference:
 
@@ -58,6 +46,24 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 Colin Alberts Master's thesis presents fielder placement optimization approaches that are downstream of SEAM.
 
 <br>
+
+
+## Recent News and Events
+
+ - **07/08/25**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=Rb1xX6kUO84) on an under-appreciated all-time great player through the lens of era-adjusted WAR.
+ - **05/29/25**: Our paper ["Comparing baseball players across eras via novel Full House Modeling"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short) has been published at *Annals of Applied Statistics*! A [preprint version](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4) is also available. The interdisciplinary nature of this work was highlighted by the [UIUC Statistics Department](https://stat.illinois.edu/news/2025-06-02/illinois-researchers-publish-interdisciplinary-era-adjusting-baseball-study).
+ - **05/27/25**: Foolish Baseball featured our era-adjusted WAR statistic in his tour de force [video on Hank Aaron's unparalleled consistency](https://www.youtube.com/watch?v=k_3aAw5iY4k).
+ - **03/25/25**: We released [Version 2.1](https://eckeraadjustment.web.illinois.edu/) of our era-adjusted statistics site, now including data through the 2024 season.
+ - **01/21/25**: The fourth iteration of STAT 430: Baseball Analytics began at UIUC.
+
+## Historical Milestones
+
+ - The Eck Sports Lab is collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
+ - **04/26/24**: Colin Alberts completed his [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimization) on fielder placement optimization.
+ - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
+ - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was [featured](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
+
+
 
 ## People 
 
