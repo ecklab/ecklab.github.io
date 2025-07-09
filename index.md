@@ -128,17 +128,17 @@ Colin Alberts Master's thesis presents fielder placement optimization approaches
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/jack_banks.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Performance Science Analyst for the **New York Yankees**. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Performance Science Analyst for the <b>New York Yankees</b>. He worked on a baseball season simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/julia_wapner.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/julia-wapner-72b418199/">Julia Wapner</a> (2022) is currently working as a Junior Data Scientist for the **Baltimore Orioles**. She helped develop the second version (current version) of the SEAM application.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/julia-wapner-72b418199/">Julia Wapner</a> (2022) is currently working as a Junior Data Scientist for the <b>Baltimore Orioles</b>. She helped develop the second version (current version) of the SEAM application.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/charles_young.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/charles-young-2aa709136/">Charles Young</a> (2020) is currently working as a Senior Software Engineer with the **Pittsburgh Pirates**. He helped develop the first version of the SEAM application. He created the Illini Analytics group at University of Illinois Urbana-Champaign. His collaborations with physicist and baseball expert <a href = "http://baseball.physics.illinois.edu/">Alan Nathan</a> and the UIUC baseball team were made into a <a href = "https://www.youtube.com/watch?v=mcHA385-6P0">documentary</a>.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/charles-young-2aa709136/">Charles Young</a> (2020) is currently working as a Senior Software Engineer with the <b>Pittsburgh Pirates</b>. He helped develop the first version of the SEAM application. He created the Illini Analytics group at University of Illinois Urbana-Champaign. His collaborations with physicist and baseball expert <a href = "http://baseball.physics.illinois.edu/">Alan Nathan</a> and the UIUC baseball team were made into a <a href = "https://www.youtube.com/watch?v=mcHA385-6P0">documentary</a>.</p>
 </div>   
 
 </div> 
