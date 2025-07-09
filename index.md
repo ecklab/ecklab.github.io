@@ -109,7 +109,7 @@ Colin Alberts Master's thesis presents fielder placement optimization approaches
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/christopher_ye.jpg" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/chistopher_ye.jpg" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christopher-ye-22517b343/">Christopher Ye</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is contributing to content development and communication strategies for the Full House Modeling project. </p>
 </div> 
 
