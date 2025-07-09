@@ -75,7 +75,7 @@ Colin Alberts Master's thesis presents fielder placement optimization approaches
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/shenyan.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> (2024) is currently a postdoc with Professor Bo Li in the Department of Statistics and Data Science at Washington University in St Louis. He successfully defended his PhD dissertation on Full House Methodology from the University of Illinois Urbana-Champaign.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> is currently a postdoc with Professor Bo Li in the Department of Statistics and Data Science at Washington University in St Louis. He successfully defended his PhD dissertation on Full House Methodology from the University of Illinois Urbana-Champaign.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
@@ -144,17 +144,17 @@ Colin Alberts Master's thesis presents fielder placement optimization approaches
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/zheer_wang.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/zheer-wang/">Ava (Zheer) Wang</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. She developed public-facing content for the Full House Modeling project.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/zheer-wang/">Ava (Zheer) Wang</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. She developed public-facing content for the Full House Modeling project.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/idrees_muhammad_kudaimi.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> is a Chemistry student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> (2025) is a Chemistry student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/mohit_singh.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/mohit-singh-5b4b351b3/">Mohit Singh</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/mohit-singh-5b4b351b3/">Mohit Singh</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
