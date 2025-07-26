@@ -9,7 +9,10 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ### Comparing Baseball Players Across Eras
 
-This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performance of pre-integration players. You can read more about these origins [here](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). Recently, we have made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries.
+**Project page:** [Era Adjusted Baseball Stats (Version 2.1)](https://eckeraadjustment.web.illinois.edu/)  
+**Full write‑up:** [Version 2.1 Interactive Methodology & Leaderboards](https://eckeraadjustment.web.illinois.edu/era_adjusted_V2.1.html)
+
+This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performances of pre-integration players. You can explore these origins in our [initial Shiny app on baseball nostalgia](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). We have since made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries. These models are a crystallization of conceptual logic articulated by Stephen Jay Gould, as explained in [this short video](https://www.youtube.com/watch?v=BNM6ait4LOc).
 
 Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacement (ebWAR) and era-adjusted fangraphs wins above replacement (efWAR):
 
@@ -28,22 +31,20 @@ rank | name | ebWAR | name | efWAR
 
 *The list above combines Babe Ruth's batting and pitching WAR*
 
-Those interested in this project should check out [our website](https://eckeraadjustment.web.illinois.edu/#rankings). 
-
-Listen to Daniel Eck and Adrian Burgos Jr.'s discuss our work on the [Effectively Wild podcast](https://podcasts.apple.com/us/podcast/effectively-wild-episode-1954-los-got-physical/id545919715?i=1000593873446) (Eck and Burgos appear at 53:34). Daniel Eck also discussed this work on the [Wharton Moneyball podcast](https://embed.acast.com/$/5b69f70c0a0eca0c20692176/11123-cfb-nfl-covid-mlb-eck-thompson) (Eck's appearance starts at 23:45)
-
 <br>
 
 
 ### SEAM method for better batted-ball prediction
 
-We developed SEAM (synthetic estimated average matchup) methodology for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. We have developed a [web application](https://seam.stat.illinois.edu/index.html) that implements the SEAM method and provides visualizations. 
+**Web application landing page:** [SEAM: Synthetic Estimated Average Matchup](https://seam.stat.illinois.edu/)
+
+We developed SEAM (synthetic estimated average matchup) methodology for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season.
 
 Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analytics Conference:
 
 [![](images/SEAMtalk.png)](https://www.youtube.com/watch?v=I4k79lF7O1s&ab_channel=SABRvideos)
 
-Colin Alberts Master's thesis presents fielder placement optimization approaches that are downstream of SEAM.
+Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimization) explores fielder placement optimization approaches that are downstream of SEAM.
 
 <br>
 
