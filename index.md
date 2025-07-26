@@ -9,8 +9,8 @@ At Eck Sports Lab, our mission is to research all things sports with a current f
 
 ### Comparing Baseball Players Across Eras
 
-**Project page:** [Era Adjusted Baseball Stats (Version 2.1)](https://eckeraadjustment.web.illinois.edu/)  
-**Full write‑up:** [Version 2.1 Interactive Methodology & Leaderboards](https://eckeraadjustment.web.illinois.edu/era_adjusted_V2.1.html)
+**Project page:** [Era Adjusted Baseball Stats v2.1](https://eckeraadjustment.web.illinois.edu/)  
+**Full write‑up:** [Stats and Case Studies v2.1](https://eckeraadjustment.web.illinois.edu/era_adjusted_V2.1.html)
 
 This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performances of pre-integration players. You can explore these origins in our [initial Shiny app on baseball nostalgia](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). We have since made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries. These models are a crystallization of conceptual logic articulated by Stephen Jay Gould, as explained in [this short video](https://www.youtube.com/watch?v=BNM6ait4LOc).
 
