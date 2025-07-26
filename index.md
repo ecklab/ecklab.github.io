@@ -51,6 +51,7 @@ Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimiza
 
 ## Recent News and Events
 
+ - **07/24/25**: Our era‑adjusted baseball research, built on Full House Modeling, was featured on [Newswise](https://www.newswise.com/articles/comparing-baseball-greats-when-looking-across-eras-who-comes-out-on-top), highlighting how our methods can be used to fairly compare players across eras.
  - **07/08/25**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=Rb1xX6kUO84) on an under-appreciated all-time great player through the lens of era-adjusted WAR.
  - **05/29/25**: Our paper ["Comparing baseball players across eras via novel Full House Modeling"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short) has been published at *Annals of Applied Statistics*! A [preprint version](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4) is also available. The interdisciplinary nature of this work was highlighted by the [UIUC Statistics Department](https://stat.illinois.edu/news/2025-06-02/illinois-researchers-publish-interdisciplinary-era-adjusting-baseball-study).
  - **05/27/25**: Foolish Baseball featured our era-adjusted WAR statistic in his tour de force [video on Hank Aaron's unparalleled consistency](https://www.youtube.com/watch?v=k_3aAw5iY4k).
