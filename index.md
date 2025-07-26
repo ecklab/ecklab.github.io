@@ -121,6 +121,11 @@ Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimiza
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christopher-ye-22517b343/">Christopher Ye</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is contributing to content development and communication strategies for the Full House Modeling project. </p>
 </div> 
 
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/logan_blancett.jpg" alt="Person 11" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is developing a Shiny-based baseball simulation game. </p>
+</div> 
+
 </div>
 
 
