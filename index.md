@@ -31,7 +31,7 @@ rank | name | ebWAR | name | efWAR
 
 *The list above combines Babe Ruth's batting and pitching WAR*
 
-<br>
+This is Version 2.1 of the project. For earlier iterations and the development history, see our [project history on GitHub](https://github.com/ecklab/era-adjustment-app-supplement).
 
 
 ### SEAM method for better batted-ball prediction
