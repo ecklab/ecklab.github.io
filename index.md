@@ -51,15 +51,17 @@ Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimiza
 
 ## Recent News and Events
 
+ - **08/22/25** and **08/24/25**: Daniel J. Eck presented a talk titled "Full House Modeling: Rethinking Fairness, Extremes, and Historical Comparison in Statistics" at, respectively EcoSta and Saberseminar.
+ - **08/21/25**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=HGljhonuYGs) on Willie Stargell's under appreciated power as told through the lens of era-adjusted statistics.
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html)!
  - **07/08/25**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=Rb1xX6kUO84) on an under-appreciated all-time great player through the lens of era-adjusted WAR.
  - **05/29/25**: Our paper ["Comparing baseball players across eras via novel Full House Modeling"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short) has been published at *Annals of Applied Statistics*! A [preprint version](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4) is also available. The interdisciplinary nature of this work was highlighted by the [UIUC Statistics Department](https://stat.illinois.edu/news/2025-06-02/illinois-researchers-publish-interdisciplinary-era-adjusting-baseball-study).
  - **05/27/25**: Foolish Baseball featured our era-adjusted WAR statistic in his tour de force [video on Hank Aaron's unparalleled consistency](https://www.youtube.com/watch?v=k_3aAw5iY4k).
- - **03/25/25**: We released [Version 2.1](https://eckeraadjustment.web.illinois.edu/) of our era-adjusted statistics site, now including data through the 2024 season.
- - **01/21/25**: The fourth iteration of STAT 430: Baseball Analytics began at UIUC.
+
 
 ## Historical Milestones
 
+ - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html)!
  - The Eck Sports Lab is collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
  - **04/26/24**: Colin Alberts completed his [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimization) on fielder placement optimization.
  - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
