@@ -61,7 +61,7 @@ Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimiza
 
 ## Historical Milestones
 
- - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html)!
+ - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html) and was on the front page of the 08/13/25 print edition!
  - **04/26/24**: Colin Alberts completed his [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimization) on fielder placement optimization.
  - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
  - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was [featured](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
@@ -103,27 +103,22 @@ Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimiza
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/ashrith_anumala.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ashrithanumala/">Ashrith Anumala</a> is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+    <img src="images/idrees_muhammad_kudaimi.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> is a Chemistry student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/colin_doherty.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colinmdoherty/">Colin Doherty</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
-</div> 
-
-<div style="display: flex; margin-bottom: 20px;">
-    <img src="images/rohan_nakra.jpg" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/rohan_nakra.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/rohan-nakra-95b91431a/">Rohan Nakra</a> is an Engineering student at the University of Illinois Urbana-Champaign. He is currently working to update the SEAM project with up-to-date batted ball distributions for specific batter-pitcher matchups.  </p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/chistopher_ye.jpg" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christopher-ye-22517b343/">Christopher Ye</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is contributing to content development and communication strategies for the Full House Modeling project. </p>
+    <img src="images/chistopher_ye.jpg" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christopher-ye-22517b343/">Christopher Ye</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is contributing to content development and communication strategies for the Full House Modeling project. Check out his <a href = "https://www.youtube.com/results?search_query=datadugout">DataDugout</a> YouTube channel. </p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/logan_blancett.jpg" alt="Person 11" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/logan_blancett.jpg" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is developing a Shiny-based baseball simulation game. </p>
 </div> 
 
@@ -157,37 +152,42 @@ Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimiza
 <div style="display: flex; flex-direction: column;">
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/zheer_wang.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/ashrith_anumala.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ashrithanumala/">Ashrith Anumala</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/colin_doherty.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colinmdoherty/">Colin Doherty</a> (2025) is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/zheer_wang.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/zheer-wang/">Ava (Zheer) Wang</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. She developed public-facing content for the Full House Modeling project.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/idrees_muhammad_kudaimi.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> (2025) is a Chemistry student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
-</div> 
-
-<div style="display: flex; margin-bottom: 20px;">
-    <img src="images/mohit_singh.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/mohit_singh.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/mohit-singh-5b4b351b3/">Mohit Singh</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/colin_alberts.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/colin_alberts.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> (2024) is a data scientist at CISCO. He was an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He completed a Master's thesis on working on fielder placement optimization. See his GitHub repo <a href = "https://github.com/colalb1/SEAM-Fielder-Optimization">here</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/jamin_kim.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jamin-kim-69aa7920a/">Jamin Kim</a> (2024) is a recent Statistics graduate at the University of Illinois Urbana-Champaign. He worked on a baseball game simulator with the Chicago Cubs.</p>
+    <img src="images/jamin_kim.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jamin-kim-69aa7920a/">Jamin Kim</a> (2024) is a Statistics graduate from the University of Illinois Urbana-Champaign. He worked on a baseball game simulator with the Chicago Cubs.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/fieldOdreams.png" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> (2023) is a Statistics BS student at the University of Illinois Urbana-Champaign. He worked on a baseball season simulator with the Chicago Cubs.</p>
+    <img src="images/fieldOdreams.png" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> (2023) is a Statistics graduate from the University of Illinois Urbana-Champaign. He worked on a baseball season simulator with the Chicago Cubs.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/christian_chase.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/christian_chase.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>", and is currently a J.D. Candidate at Vanderbilt University Law School.</p>
 </div>  
  
