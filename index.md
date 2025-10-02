@@ -33,8 +33,9 @@ rank | name | ebWAR | name | efWAR
 
 This is Version 2.1 of the project. For earlier iterations and the development history, see our [project history on GitHub](https://github.com/ecklab/era-adjustment-app-supplement).
 
+<br>
 
-### SEAM method for better batted-ball prediction
+### SEAM method for Better Batted-Ball Prediction
 
 **Web application landing page:** [SEAM: Synthetic Estimated Average Matchup](https://seam.stat.illinois.edu/)
 
@@ -47,6 +48,23 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimization) explores fielder placement optimization approaches that are downstream of SEAM.
 
 <br>
+
+
+### Featured Content
+
+At Eck Sports Lab, our students are creating innovative, public-facing projects that bring our research to wider audiences. From newsletters to YouTube channels to interactive games, here are some highlights:  
+
+#### The Era Curveball
+
+A Substack newsletter by **Idrees Muhammad Kudaimi** featuring player profiles through the lens of era-adjusted baseball statistics obtained via Full House Modeling. It blends rigorous analysis with sharp, entertaining commentary.  
+
+#### [DataDugout YouTube Channel](https://www.youtube.com/@datadagoat)
+
+A YouTube channel by **Christopher Ye** that covers baseball broadly, with a current focus on player profiles and storytelling powered by era-adjusted baseball statistics.  
+
+#### 2V2 Baseball Deathmatch
+
+An R Shiny–based video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, using Statcast data and similarity score logic derived from our SEAM project.  
 
 
 ## Recent News and Events
@@ -183,11 +201,16 @@ Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimiza
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/fieldOdreams.png" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.aidanglickman.com/">Aidan Glickman</a> (2023) is a Computer Science graduate from the University of Illinois Urbana-Champaign. He led a STAT 430 group that developed the initial proof of concept for our baseball video game simulator.</p>
+</div> 
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/fieldOdreams.png" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> (2023) is a Statistics graduate from the University of Illinois Urbana-Champaign. He worked on a baseball season simulator with the Chicago Cubs.</p>
 </div> 
  
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/christian_chase.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/christian_chase.jpg" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>", and is currently a J.D. Candidate at Vanderbilt University Law School.</p>
 </div>  
  
