@@ -45,7 +45,7 @@ We developed SEAM (synthetic estimated average matchup) methodology for describi
 Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analytics Conference:
 
 <a href="https://www.youtube.com/watch?v=I4k79lF7O1s&ab_channel=SABRvideos">
-  <img src="images/SEAMtalk.png" alt="SEAM Talk" style="width:50%; height:auto;">
+  <img src="images/SEAMtalk.png" alt="SEAM Talk" style="width:65%; height:auto;">
 </a>
 
 
@@ -65,7 +65,7 @@ A YouTube channel by **Christopher Ye** that covers baseball broadly, with a cur
 
 An R Shiny–based retro arcade simulation video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, with simulator logic using Statcast data and similarity scores derived from our SEAM project. The game is coming soon. Check out the game artwork:
 
-<img src="images/2V2-Baseball-Deathmatch.jpeg" alt="2v2 Baseball Deathmatch" width="40%" height="40%">
+<img src="images/2V2-Baseball-Deathmatch.jpeg" alt="2v2 Baseball Deathmatch" width="60%" height="60%">
 
 [Soundtrack available on Spotify](https://open.spotify.com/playlist/4fR5U0vK3YxOMIRGYpotpB?si=Gw0eSYozSUqLsNv0aZNp-A) 
 
