@@ -1,8 +1,10 @@
-## Welcome 
+## Welcome  
 
-Welcome to Eck Sports Lab! 
+Welcome to Eck Sports Lab, where cutting-edge statistics meet baseball history, culture, and creativity.  
 
-At Eck Sports Lab, our mission is to research all things sports with a current focus on baseball. We study topics ranging from player evaluation metrics to comparing baseball players across eras. The common thread linking all of our projects is a dedication to high-quality and often innovative statistical and interdisciplinary research with a focus on an accessible and entertaining presentation of our ideas. 
+At Eck Sports Lab, our mission is to research all things sports, with a current emphasis on baseball. We study topics ranging from player evaluation metrics to comparing baseball players across eras. What unites our work is a dedication to high-quality, innovative statistical and interdisciplinary research that are presented in ways that are accessible, engaging, and often entertaining.  
+
+Our projects span rigorous methodology, applied analytics, and student-led creative initiatives, all working together to bring new perspectives to how we understand sports.  
 
 
 ## Current Projects 
@@ -33,38 +35,39 @@ rank | name | ebWAR | name | efWAR
 
 This is Version 2.1 of the project. For earlier iterations and the development history, see our [project history on GitHub](https://github.com/ecklab/era-adjustment-app-supplement).
 
-<br>
 
 ### SEAM method for Better Batted-Ball Prediction
 
 **Web application landing page:** [SEAM: Synthetic Estimated Average Matchup](https://seam.stat.illinois.edu/)
 
-We developed SEAM (synthetic estimated average matchup) methodology for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season.
+We developed SEAM (synthetic estimated average matchup) methodology for describing batter versus pitcher matchups in baseball. The SEAM method provides confidence regions that reflect where baseballs that are put into play are expected to land. Our method is more accurate than similar methods constructed from individual batter spray charts or an individual pitcher's spray chart allowed. We estimate that the implementation of SEAM can yield an additional 40 outs over conventional spray charts throughout the course of an MLB season. Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimization) explores fielder placement optimization approaches that are downstream of SEAM.
 
 Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analytics Conference:
 
-[![](images/SEAMtalk.png)](https://www.youtube.com/watch?v=I4k79lF7O1s&ab_channel=SABRvideos)
-
-Colin Alberts [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimization) explores fielder placement optimization approaches that are downstream of SEAM.
-
-<br>
+<a href="https://www.youtube.com/watch?v=I4k79lF7O1s&ab_channel=SABRvideos">
+  <img src="images/SEAMtalk.png" alt="SEAM Talk" style="width:50%; height:auto;">
+</a>
 
 
-### Featured Content
+### Featured Student Content
 
 At Eck Sports Lab, our students are creating innovative, public-facing projects that bring our research to wider audiences. From newsletters to YouTube channels to interactive games, here are some highlights:  
 
 #### The Era Curveball
 
-A Substack newsletter by **Idrees Muhammad Kudaimi** featuring player profiles through the lens of era-adjusted baseball statistics obtained via Full House Modeling. It blends rigorous analysis with sharp, entertaining commentary.  
+A Substack newsletter by **Idrees Muhammad Kudaimi** featuring player profiles through the lens of era-adjusted baseball statistics obtained via Full House Modeling. It blends rigorous analysis with sharp, entertaining commentary. [Subscribe here](https://eracurveball.substack.com/).
 
-#### [DataDugout YouTube Channel](https://www.youtube.com/@datadagoat)
+#### DataDugout YouTube Channel
 
-A YouTube channel by **Christopher Ye** that covers baseball broadly, with a current focus on player profiles and storytelling powered by era-adjusted baseball statistics.  
+A YouTube channel by **Christopher Ye** that covers baseball broadly, with a current focus on player profiles and storytelling powered by era-adjusted baseball statistics. [Check it out](https://www.youtube.com/@datadagoat).
 
-#### 2V2 Baseball Deathmatch
+#### 2v2 Baseball Death Match
 
-An R Shiny–based video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, using Statcast data and similarity score logic derived from our SEAM project.  
+An R Shiny–based retro arcade simulation video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, with simulator logic using Statcast data and similarity scores derived from our SEAM project. The game is coming soon. Check out the game artwork:
+
+<img src="images/2V2-Baseball-Deathmatch.jpeg" alt="2v2 Baseball Deathmatch" width="40%" height="40%">
+
+[Soundtrack available on Spotify](https://open.spotify.com/playlist/4fR5U0vK3YxOMIRGYpotpB?si=Gw0eSYozSUqLsNv0aZNp-A) 
 
 
 ## Recent News and Events
@@ -102,8 +105,14 @@ An R Shiny–based video game by **Logan Blancett**, originally inspired by a ST
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/shenyan.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> is currently a postdoc with Professor Bo Li in the Department of Statistics and Data Science at Washington University in St Louis. He successfully defended his PhD dissertation on Full House Methodology from the University of Illinois Urbana-Champaign.</p>
-</div> 
+    <p style="text-align: justify;">
+        <a href="https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> 
+        is currently a postdoc with Professor Bo Li in the Department of Statistics and Data Science at Washington University in St Louis. 
+        He successfully defended his PhD dissertation on 
+        <a href="https://www.ideals.illinois.edu/items/131675">Full House Methodology</a> 
+        at the University of Illinois Urbana-Champaign. 
+    </p>
+</div>
  
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/ddalpiaz.png" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
@@ -117,12 +126,18 @@ An R Shiny–based video game by **Logan Blancett**, originally inspired by a ST
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/ryan_to.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
-</div> 
+    <p style="text-align: justify;">
+        <a href="https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a> 
+        is a Computer Science student at the University of Illinois Urbana-Champaign. 
+        He is working on a baseball game simulator with the Chicago Cubs, helps facilitate lab research projects, 
+        and mentors student-led content creation initiatives within the lab.
+    </p>
+</div>
+
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/idrees_muhammad_kudaimi.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> is a Chemistry student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> is a Chemistry student at the University of Illinois Urbana-Champaign. He is contributing to content development for the Full House Modeling project. He launched the Era Curveball Substack newsletter.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
@@ -132,12 +147,12 @@ An R Shiny–based video game by **Logan Blancett**, originally inspired by a ST
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/chistopher_ye.jpg" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christopher-ye-22517b343/">Christopher Ye</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is contributing to content development and communication strategies for the Full House Modeling project. Check out his <a href = "https://www.youtube.com/results?search_query=datadugout">DataDugout</a> YouTube channel. </p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christopher-ye-22517b343/">Christopher Ye</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is contributing to content development for the Full House Modeling project. Check out his <a href = "https://www.youtube.com/results?search_query=datadugout">DataDugout</a> YouTube channel. </p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/logan_blancett.jpg" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is developing a Shiny-based baseball simulation game. </p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is developing a Shiny-based baseball simulation game, <i>2v2 Baseball Death Match</i>, and also mentors student-led content creation projects within the lab. </p>
 </div> 
 
 </div>
@@ -200,7 +215,7 @@ An R Shiny–based video game by **Logan Blancett**, originally inspired by a ST
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/fieldOdreams.png" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/aidan_glickman.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.aidanglickman.com/">Aidan Glickman</a> (2023) is a Computer Science graduate from the University of Illinois Urbana-Champaign. He led a STAT 430 group that developed the initial proof of concept for our baseball video game simulator.</p>
 </div> 
 
