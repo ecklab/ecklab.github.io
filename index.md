@@ -83,8 +83,6 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 ## Historical Milestones
 
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html) and was on the front page of the 08/13/25 print edition!
- - **04/26/24**: Colin Alberts completed his [Master's thesis](https://github.com/colalb1/SEAM-Fielder-Optimization) on fielder placement optimization.
- - **08/12/23**: Daniel Eck presented "Comparing baseball players across eras via the novel Full House Model" at [Saber Seminar 2023](https://www.saberseminar.com/).
  - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was [featured](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
  - The Eck Sports Lab is collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
 
