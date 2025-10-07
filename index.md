@@ -63,15 +63,19 @@ A YouTube channel by **Christopher Ye** that covers baseball broadly, with a cur
 
 #### 2v2 Baseball Death Match
 
-An R Shiny–based retro arcade simulation video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, with simulator logic using Statcast data and similarity scores derived from our SEAM project. The game is coming soon. Check out the game artwork:
+An R Shiny–based retro arcade simulation video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, with simulator logic using Statcast data and similarity scores derived from our SEAM project. Check it out (click game artwork to go to game):
 
-<img src="images/2V2-Baseball-Deathmatch.jpeg" alt="2v2 Baseball Deathmatch" width="60%" height="60%">
+<a href="https://loganmblancett.shinyapps.io/BaseballDeathmatch/">
+  <img src="images/2V2-Baseball-Deathmatch.jpeg" alt="SEAM Talk" style="width:60%; height:auto;">
+</a>
 
-[Soundtrack available on Spotify](https://open.spotify.com/playlist/4fR5U0vK3YxOMIRGYpotpB?si=Gw0eSYozSUqLsNv0aZNp-A) 
+
 
 
 ## Recent News and Events
 
+ - **10/07/25**: Logan Blancett released version 1.0.0 of [*2v2 Baseball Death Match*](https://loganmblancett.shinyapps.io/BaseballDeathmatch/), an R Shiny–based retro arcade simulation video game.
+ - **10/06/25**: Idrees Muhammad Kudaimi launched [*The Era Curveball*](https://eracurveball.substack.com/), a substack newsletter featuring player profiles through the lens of era-adjusted baseball statistics.
  - **08/22/25** and **08/24/25**: Daniel J. Eck presented a talk titled "Full House Modeling: Rethinking Fairness, Extremes, and Historical Comparison in Statistics" at, respectively EcoSta and Saberseminar.
  - **08/21/25**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=HGljhonuYGs) on Willie Stargell's under appreciated power as told through the lens of era-adjusted statistics.
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html)!
@@ -131,7 +135,6 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
         and mentors student-led content creation initiatives within the lab.
     </p>
 </div>
-
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/idrees_muhammad_kudaimi.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
