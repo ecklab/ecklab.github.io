@@ -109,10 +109,10 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
     <img src="images/shenyan.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;">
         <a href="https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> 
-        is currently a postdoc with Professor Bo Li in the Department of Statistics and Data Science at Washington University in St Louis. 
+        is currently a postdoc with Professor Bo Li in the Department of Statistics at the University of Illinois Urbana-Champaign. 
         He successfully defended his PhD dissertation on 
-        <a href="https://www.ideals.illinois.edu/items/131675">Full House Methodology</a> 
-        at the University of Illinois Urbana-Champaign. 
+        <a href="https://www.ideals.illinois.edu/items/131675">Full House Methodology</a>, 
+        a framework for fair cross-era comparisons in baseball and beyond. Shen plays an active role in research and advising students.
     </p>
 </div>
  
