@@ -76,7 +76,7 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
  - **10/07/25**: Logan Blancett released version 1.0.0 of [*2v2 Baseball Death Match*](https://loganmblancett.shinyapps.io/BaseballDeathmatch/), an R Shiny–based retro arcade simulation video game.
  - **10/06/25**: Idrees Muhammad Kudaimi launched [*The Era Curveball*](https://eracurveball.substack.com/), a substack newsletter featuring player profiles through the lens of era-adjusted baseball statistics.
- - **08/22/25** and **08/24/25**: Daniel J. Eck presented a talk titled "Full House Modeling: Rethinking Fairness, Extremes, and Historical Comparison in Statistics" at, respectively EcoSta and Saberseminar.
+ - **08/22/25** and **08/24/25**: Daniel J. Eck presented a talk titled "Full House Modeling: Rethinking Fairness, Extremes, and Historical Comparison in Statistics" at, respectively, EcoSta and Saberseminar.
  - **08/21/25**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=HGljhonuYGs) on Willie Stargell's under appreciated power as told through the lens of era-adjusted statistics.
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html)!
  - **07/08/25**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=Rb1xX6kUO84) on an under-appreciated all-time great player through the lens of era-adjusted WAR.
