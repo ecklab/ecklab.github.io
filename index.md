@@ -68,15 +68,15 @@ At Eck Sports Lab, our students are creating innovative, public-facing projects 
 
 #### The Era Curveball
 
-A Substack newsletter by **Idrees Muhammad Kudaimi** featuring player profiles through the lens of era-adjusted baseball statistics obtained via Full House Modeling. It blends rigorous analysis with sharp, entertaining commentary. [Subscribe here](https://eracurveball.substack.com/).
+A Substack newsletter by **Idrees Muhammad Kudaimi** featuring player profiles through the lens of era-adjusted baseball statistics obtained via Full House Modeling. It blends rigorous analysis with sharp, entertaining commentary. **[Check it out](https://eracurveball.substack.com/)**
 
 #### DataDugout YouTube Channel
 
-A YouTube channel by **Christopher Ye** that covers baseball broadly, with a current focus on player profiles and storytelling powered by era-adjusted baseball statistics. [Check it out](https://www.youtube.com/@datadagoat).
+A YouTube channel by **Christopher Ye** that covers baseball broadly, with a current focus on player profiles and storytelling powered by era-adjusted baseball statistics. **[Check it out](https://www.youtube.com/@datadagoat)**
 
 #### 2v2 Baseball Death Match
 
-An R Shiny–based retro arcade simulation video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, with simulator logic using Statcast data and similarity scores derived from our SEAM project. Check it out (click game artwork to go to game):
+An R Shiny–based retro arcade simulation video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, with simulator logic using Statcast data and similarity scores derived from our SEAM project. Check it out (click game artwork below to go to game):
 
 <a href="https://loganmblancett.shinyapps.io/BaseballDeathmatch/">
   <img src="images/2V2-Baseball-Deathmatch.jpeg" alt="SEAM Talk" style="width:60%; height:auto;">
