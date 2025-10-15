@@ -51,15 +51,20 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 
 ### Teaching Resources
 
-Eck Sports Lab develops open-access materials that connect classroom concepts in statistics to contemporary research problems in sports analytics. These resources are designed to help students and instructors explore modern methods in a tangible, data-driven way.
+Eck Sports Lab develops open-access materials that bridge foundational concepts in statistics with contemporary research problems in sports analytics. These resources are designed for instructors to integrate directly into their own courses and for students to explore methods through tangible, data-driven, and modern examples.
 
-#### Binomial Distribution: Comparing Baseball Players Across Eras
+Teaching vignette pages:
 
-A teaching vignette that introduces the Binomial distribution using baseball data and connects introductory probability to real-world modeling with [era-adjusted WAR](https://eckeraadjustment.web.illinois.edu/).  This resource includes reproducible R code, data from the [baseball reference](https://www.baseball-reference.com/) and the [fullhouse](https://github.com/DEck13/fullhouse) R package, and visualizations illustrating how simple probability models can reveal systematic bias in historical rankings. **[Read it here](binomial-baseball.html)**
+- [**Binomial Distribution: Comparing Baseball Players Across Eras** (Introductory)](https://htmlpreview.github.io/?https://github.com/ecklab/ecklab.github.io/blob/main/binomial-distribution-example.html)
+- [**Probability Integral Transformation, Order Statistics, and Full House Modeling** (Intermediate / Advanced)](https://cran.r-project.org/web/packages/Lahman/vignettes/FHM-primer.html)
 
-#### Probability Integral Transformation, Order Statistics, and Full House Modeling
+#### Binomial Distribution: Comparing Baseball Players Across Eras (Introductory)
 
-A teaching vignette that introduces the core ideas behind Full House Modeling (FHM) and its applications to era-adjusted WAR. This resource builds statistical intuition for the probability integral transform and the distribution of order statistics, showing how these concepts form the foundation of FHM. It includes reproducible R code, visual examples, and data from the [Lahman](https://cran.radicaldevelop.com/web/packages/Lahman/index.html) R package. **[Read it here](https://cran.r-project.org/web/packages/Lahman/vignettes/FHM-primer.html)**
+A teaching vignette that introduces the Binomial distribution using baseball data and connects introductory probability to real-world modeling with era-adjusted WAR. This resource includes reproducible R code, data from [baseball reference](https://www.baseball-reference.com/) and the [fullhouse](https://github.com/DEck13/fullhouse) R package, and visualizations illustrating how simple probability models can reveal systematic bias in historical rankings. 
+
+#### Probability Integral Transformation, Order Statistics, and Full House Modeling (Intermediate / Advanced)
+
+A teaching vignette that introduces the core ideas behind Full House Modeling (FHM) and its applications to era-adjusted WAR. This resource builds intuition for the probability integral transform and the distribution of order statistics, showing how these concepts form the mathematical foundation of FHM. It includes reproducible R code, visual examples, and data from the [Lahman](https://cran.radicaldevelop.com/web/packages/Lahman/index.html) R package. 
 
 
 ### Featured Student Content
