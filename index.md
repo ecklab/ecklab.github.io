@@ -49,6 +49,19 @@ Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analyt
 </a>
 
 
+### Teaching Resources
+
+Eck Sports Lab develops open-access materials that connect classroom concepts in statistics to contemporary research problems in sports analytics. These resources are designed to help students and instructors explore modern methods in a tangible, data-driven way.
+
+#### Binomial Distribution: Comparing Baseball Players Across Eras
+
+A teaching vignette that introduces the Binomial distribution using baseball data and connects introductory probability to real-world modeling with [era-adjusted WAR](https://eckeraadjustment.web.illinois.edu/).  This resource includes reproducible R code, data from the [baseball reference](https://www.baseball-reference.com/) and the [fullhouse](https://github.com/DEck13/fullhouse) R package, and visualizations illustrating how simple probability models can reveal systematic bias in historical rankings. **[Read it here](binomial-baseball.html)**
+
+#### Probability Integral Transformation, Order Statistics, and Full House Modeling
+
+A teaching vignette that introduces the core ideas behind Full House Modeling (FHM) and its applications to era-adjusted WAR. This resource builds statistical intuition for the probability integral transform and the distribution of order statistics, showing how these concepts form the foundation of FHM. It includes reproducible R code, visual examples, and data from the [Lahman](https://cran.radicaldevelop.com/web/packages/Lahman/index.html) R package. **[Read it here](https://cran.r-project.org/web/packages/Lahman/vignettes/FHM-primer.html)**
+
+
 ### Featured Student Content
 
 At Eck Sports Lab, our students are creating innovative, public-facing projects that bring our research to wider audiences. From newsletters to YouTube channels to interactive games, here are some highlights:  
