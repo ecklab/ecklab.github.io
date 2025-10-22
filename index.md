@@ -55,8 +55,9 @@ Eck Sports Lab develops open-access materials that bridge foundational concepts 
 
 Teaching vignette pages:
 
-- [**Binomial Distribution: Comparing Baseball Players Across Eras** (Introductory)](https://htmlpreview.github.io/?https://github.com/ecklab/ecklab.github.io/blob/main/binomial-distribution-example.html)
+- [**Binomial Distribution: Comparing Baseball Players Across Eras** (Introductory)](https://ecklab.github.io/binomial-distribution-example.html)
 - [**Probability Integral Transformation, Order Statistics, and Full House Modeling** (Intermediate / Advanced)](https://cran.r-project.org/web/packages/Lahman/vignettes/FHM-primer.html)
+
 
 #### Binomial Distribution: Comparing Baseball Players Across Eras (Introductory)
 
