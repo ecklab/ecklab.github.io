@@ -114,12 +114,12 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/dje13.png" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://publish.illinois.edu/danieleck/">Daniel J. Eck</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics and has recently developed a topics course devoted to <a href = "https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics">Baseball Analytics</a>.</p>
+    <p style="text-align: justify;"><a href = "https://publish.illinois.edu/danieleck/">Daniel J. Eck</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics and has developed a topics course devoted to <a href = "https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics">Baseball Analytics</a>. His work focuses on fair cross-era comparisons in baseball, and he leads student-driven research and public-facing projects through Eck Sports Lab.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/burgosjr.png" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://history.illinois.edu/directory/profile/burgosjr">Adrian Burgos Jr.</a> is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles and has taught numerous classes devoted to baseball history. Recently, Adrian served on Hall of Fame Committees which enshrined Bud Fowler, Gil Hodges, Jim Kaat, Minnie Minoso, Tony Oliva, and Buck O’Neil.</p>
+    <p style="text-align: justify;"><a href = "https://history.illinois.edu/directory/profile/burgosjr">Adrian Burgos Jr.</a> is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles, has taught multiple courses devoted to baseball history, and has served on National Baseball Hall of Fame voting committees.</p>
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
@@ -196,7 +196,7 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 </div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/julia_wapner.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/riku_komatani.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/riku-komatani/">Riku Komatani</a> (2022) is currently working as a Data Scientist for the <b>Seattle Mariners</b>. He was a member of the inaugural Baseball Analytics class in 2022.</p>
 </div> 
 
