@@ -1,17 +1,19 @@
-## Welcome  
+## Welcome
 
-Welcome to Eck Sports Lab, where cutting-edge statistics meet baseball history, culture, and creativity.  
+Welcome to Eck Sports Lab, where cutting-edge statistics meet baseball history, culture, and creativity.
 
-At Eck Sports Lab, our mission is to research all things sports, with a current emphasis on baseball. We study topics ranging from player evaluation metrics to comparing baseball players across eras. What unites our work is a dedication to high-quality, innovative statistical and interdisciplinary research that are presented in ways that are accessible, engaging, and often entertaining.  
+At Eck Sports Lab, our mission is to research all things sports, with a current emphasis on baseball. We study topics ranging from player evaluation metrics to comparing baseball players across eras. What unites our work is a dedication to high-quality, innovative statistical and interdisciplinary research that are presented in ways that are accessible, engaging, and often entertaining.
 
-Our projects span rigorous methodology, applied analytics, and student-led creative initiatives, all working together to bring new perspectives to how we understand sports.  
+Our projects span rigorous methodology, applied analytics, and student-led creative initiatives, all working together to bring new perspectives to how we understand sports.
+
+**Jump to:** [Current Projects](#current-projects) · [Recent News](#recent-news-and-events) · [Historical Milestones](#historical-milestones) · [People](#people) · [Alumni in Baseball](#alumni-working-in-baseball) · [Alumni](#alumni)
 
 
-## Current Projects 
+## Current Projects
 
 ### Comparing Baseball Players Across Eras
 
-**Project page:** [Era Adjusted Baseball Stats v2.1](https://eckeraadjustment.web.illinois.edu/)  
+**Project page:** [Era Adjusted Baseball Stats v2.1](https://eckeraadjustment.web.illinois.edu/)
 **Full write‑up:** [Stats and Case Studies v2.1](https://eckeraadjustment.web.illinois.edu/era_adjusted_V2.1.html)
 
 This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performances of pre-integration players. You can explore these origins in our [initial Shiny app on baseball nostalgia](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). We have since made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries. These models are a crystallization of conceptual logic articulated by Stephen Jay Gould, as explained in [this short video](https://www.youtube.com/watch?v=BNM6ait4LOc).
@@ -33,7 +35,7 @@ rank | name | ebWAR | name | efWAR
 
 *The list above combines Babe Ruth's batting and pitching WAR*
 
-This is Version 2.1 of the project. For earlier iterations and the development history, see our [project history on GitHub](https://github.com/ecklab/era-adjustment-app-supplement).
+This is Version 2.1 of the project. For earlier iterations and the development history, see our [project history on GitHub](https://github.com/ecklab/era-adjustment-app-supplement).
 
 
 ### SEAM method for Better Batted-Ball Prediction
@@ -45,7 +47,7 @@ We developed SEAM (synthetic estimated average matchup) methodology for describi
 Check out Julia Wapner's presentation of the SEAM method at the 2022 SABR Analytics Conference:
 
 <a href="https://www.youtube.com/watch?v=I4k79lF7O1s&ab_channel=SABRvideos">
-  <img src="images/SEAMtalk.png" alt="SEAM Talk" style="width:65%; height:auto;">
+  <img src="images/SEAMtalk.png" alt="Julia Wapner presenting the SEAM method at the 2022 SABR Analytics Conference" style="width:65%; height:auto;">
 </a>
 
 
@@ -61,16 +63,16 @@ Teaching vignette pages:
 
 #### Binomial Distribution: Comparing Baseball Players Across Eras (Introductory)
 
-A teaching vignette that introduces the Binomial distribution using baseball data and connects introductory probability to real-world modeling with era-adjusted WAR. This resource includes reproducible R code, data from [baseball reference](https://www.baseball-reference.com/) and the [fullhouse](https://github.com/DEck13/fullhouse) R package, and visualizations illustrating how simple probability models can reveal systematic bias in historical rankings. 
+A teaching vignette that introduces the Binomial distribution using baseball data and connects introductory probability to real-world modeling with era-adjusted WAR. This resource includes reproducible R code, data from [baseball reference](https://www.baseball-reference.com/) and the [fullhouse](https://github.com/DEck13/fullhouse) R package, and visualizations illustrating how simple probability models can reveal systematic bias in historical rankings.
 
 #### Probability Integral Transformation, Order Statistics, and Full House Modeling (Intermediate / Advanced)
 
-A teaching vignette that introduces the core ideas behind Full House Modeling (FHM) and its applications to era-adjusted WAR. This resource builds intuition for the probability integral transform and the distribution of order statistics, showing how these concepts form the mathematical foundation of FHM. It includes reproducible R code, visual examples, and data from the [Lahman](https://cran.radicaldevelop.com/web/packages/Lahman/index.html) R package. 
+A teaching vignette that introduces the core ideas behind Full House Modeling (FHM) and its applications to era-adjusted WAR. This resource builds intuition for the probability integral transform and the distribution of order statistics, showing how these concepts form the mathematical foundation of FHM. It includes reproducible R code, visual examples, and data from the [Lahman](https://cran.radicaldevelop.com/web/packages/Lahman/index.html) R package.
 
 
 ### Featured Student Content
 
-At Eck Sports Lab, our students are creating innovative, public-facing projects that bring our research to wider audiences. From newsletters to YouTube channels to interactive games, here are some highlights:  
+At Eck Sports Lab, our students are creating innovative, public-facing projects that bring our research to wider audiences. From newsletters to YouTube channels to interactive games, here are some highlights:
 
 #### The Era Curveball
 
@@ -85,7 +87,7 @@ A YouTube channel by **Christopher Ye** that covers baseball broadly, with a cur
 An R Shiny–based retro arcade simulation video game by **Logan Blancett**, originally inspired by a STAT 430 group project led by Aidan Glickman. The game simulates 7-inning matchups where two teams of a batter and pitcher face off, with simulator logic using Statcast data and similarity scores derived from our SEAM project. Check it out (click game artwork below to go to game):
 
 <a href="https://loganmblancett.shinyapps.io/BaseballDeathmatch/">
-  <img src="images/2V2-Baseball-Deathmatch.jpeg" alt="SEAM Talk" style="width:60%; height:auto;">
+  <img src="images/2V2-Baseball-Deathmatch.jpeg" alt="2v2 Baseball Death Match game artwork" style="width:60%; height:auto;">
 </a>
 
 
@@ -103,70 +105,70 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html) and was on the front page of the 08/13/25 print edition!
  - **05/29/25**: Our paper ["Comparing baseball players across eras via novel Full House Modeling"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short) has been published at *Annals of Applied Statistics*! A [preprint version](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4) is also available. The interdisciplinary nature of this work was highlighted by the [UIUC Statistics Department](https://stat.illinois.edu/news/2025-06-02/illinois-researchers-publish-interdisciplinary-era-adjusting-baseball-study).
- - **05/27/25**: Foolish Baseball featured our era-adjusted WAR statistic in his tour de force [video on Hank Aaron's unparalleled consistency](https://www.youtube.com/watch?v=k_3aAw5iY4k). 
+ - **05/27/25**: Foolish Baseball featured our era-adjusted WAR statistic in his tour de force [video on Hank Aaron's unparalleled consistency](https://www.youtube.com/watch?v=k_3aAw5iY4k).
  - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was [featured](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
  - The Eck Sports Lab is collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
 
 
-## People 
+## People
 
 <div style="display: flex; flex-direction: column;">
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/dje13.png" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/dje13.png" alt="Daniel J. Eck" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://publish.illinois.edu/danieleck/">Daniel J. Eck</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active researcher in baseball analytics and has developed a topics course devoted to <a href = "https://stat.illinois.edu/news/2022-12-19/new-statistics-course-takes-swing-baseball-analytics">Baseball Analytics</a>. His work focuses on fair cross-era comparisons in baseball, and he leads student-driven research and public-facing projects through Eck Sports Lab.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/burgosjr.png" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/burgosjr.png" alt="Adrian Burgos Jr." style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://history.illinois.edu/directory/profile/burgosjr">Adrian Burgos Jr.</a> is a History professor at the University of Illinois Urbana-Champaign.  He has written numerous books and articles, has taught multiple courses devoted to baseball history, and has served on National Baseball Hall of Fame voting committees.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/shenyan.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/shenyan.jpg" alt="Shen Yan" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;">
-        <a href="https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a> 
-        is currently a postdoc with Professor Bo Li in the Department of Statistics at the University of Illinois Urbana-Champaign. 
-        He successfully defended his PhD dissertation on 
-        <a href="https://www.ideals.illinois.edu/items/131675">Full House Methodology</a>, 
+        <a href="https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a>
+        is currently a postdoc with Professor Bo Li in the Department of Statistics at the University of Illinois Urbana-Champaign.
+        He successfully defended his PhD dissertation on
+        <a href="https://www.ideals.illinois.edu/items/131675">Full House Methodology</a>,
         a framework for fair cross-era comparisons in baseball and beyond. Shen plays an active role in research and advising students.
     </p>
 </div>
- 
-<div style="display: flex; margin-bottom: 20px;">
-    <img src="images/chris_kinson.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
-</div> 
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/ryan_to.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/chris_kinson.jpg" alt="Christopher Kinson" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
+</div>
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/ryan_to.jpg" alt="Ryan To" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;">
-        <a href="https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a> 
-        is a Computer Science student at the University of Illinois Urbana-Champaign. 
-        He is working on a baseball game simulator with the Chicago Cubs, helps facilitate lab research projects, 
+        <a href="https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a>
+        is a Computer Science student at the University of Illinois Urbana-Champaign.
+        He is working on a baseball game simulator with the Chicago Cubs, helps facilitate lab research projects,
         and mentors student-led content creation initiatives within the lab.
     </p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/idrees_muhammad_kudaimi.jpg" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/idrees_muhammad_kudaimi.jpg" alt="Idrees Muhammad Kudaimi" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/idrees-muhammad-kudaimi/">Idrees Muhammad Kudaimi</a> is a Chemistry student at the University of Illinois Urbana-Champaign. He is contributing to content development for the Full House Modeling project. He launched the Era Curveball Substack newsletter.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/rohan_nakra.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/rohan_nakra.jpg" alt="Rohan Nakra" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/rohan-nakra-95b91431a/">Rohan Nakra</a> is an Engineering student at the University of Illinois Urbana-Champaign. He is currently working to update the SEAM project with up-to-date batted ball distributions for specific batter-pitcher matchups.  </p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/chistopher_ye.jpg" alt="Person 9" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/chistopher_ye.jpg" alt="Christopher Ye" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christopher-ye-22517b343/">Christopher Ye</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is contributing to content development for the Full House Modeling project. Check out his <a href = "https://www.youtube.com/results?search_query=datadugout">DataDugout</a> YouTube channel. </p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/logan_blancett.jpg" alt="Person 10" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/logan_blancett.jpg" alt="Logan Blancett" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is developing a Shiny-based baseball simulation game, <i>2v2 Baseball Death Match</i>, and also mentors student-led content creation projects within the lab. </p>
-</div> 
+</div>
 
 </div>
 
@@ -176,87 +178,83 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 <div style="display: flex; flex-direction: column;">
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/ddalpiaz.png" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/ddalpiaz.png" alt="David Dalpiaz" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://daviddalpiaz.org/">David Dalpiaz</a> (2025) is currently working as the Director of Baseball Research for the <b>Pittsburgh Pirates</b>. He was previously a Computer Science professor at the University of Illinois Urbana-Champaign, and a researcher and mentor in Eck Sports Lab.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/jamin_kim.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/jamin_kim.jpg" alt="Jamin Kim" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jamin-kim-69aa7920a/">Jamin Kim</a> (2024) is currently working as a Baseball Analytics apprentice for the <b>Texas Rangers</b>. He worked on a baseball game simulator with the Chicago Cubs.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/jack_banks.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/jack_banks.jpg" alt="Jack C. Banks" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/jack-banks2/">Jack C. Banks</a> (2023) is currently working as a Performance Science Analyst for the <b>New York Yankees</b>. He worked on a baseball game simulator with the Chicago Cubs. Check out his <a href = "http://jackbanks.web.illinois.edu/">website</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/julia_wapner.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/julia_wapner.jpg" alt="Julia Wapner" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/julia-wapner-72b418199/">Julia Wapner</a> (2022) is currently working as a Data Scientist for the <b>Baltimore Orioles</b>. She helped develop the second version (current version) of the SEAM application.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/riku_komatani.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/riku_komatani.jpg" alt="Riku Komatani" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/riku-komatani/">Riku Komatani</a> (2022) is currently working as a Data Scientist for the <b>Seattle Mariners</b>. He was a member of the inaugural Baseball Analytics class in 2022.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/charles_young.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/charles_young.jpg" alt="Charles Young" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/charles-young-2aa709136/">Charles Young</a> (2020) is currently working as a Senior Software Engineer with the <b>Pittsburgh Pirates</b>. He helped develop the first version of the SEAM application. He created the Illini Analytics group at University of Illinois Urbana-Champaign. His collaborations with physicist and baseball expert <a href = "http://baseball.physics.illinois.edu/">Alan Nathan</a> and the UIUC baseball team were made into a <a href = "https://www.youtube.com/watch?v=mcHA385-6P0">documentary</a>.</p>
-</div>   
+</div>
 
-</div> 
+</div>
 
 
-## Alumni 
+## Alumni
 
 <div style="display: flex; flex-direction: column;">
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/ashrith_anumala.jpg" alt="Person 1" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/ashrith_anumala.jpg" alt="Ashrith Anumala" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ashrithanumala/">Ashrith Anumala</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/colin_doherty.jpg" alt="Person 2" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/colin_doherty.jpg" alt="Colin Doherty" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colinmdoherty/">Colin Doherty</a> (2025) is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/zheer_wang.jpg" alt="Person 3" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/zheer_wang.jpg" alt="Ava (Zheer) Wang" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/zheer-wang/">Ava (Zheer) Wang</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. She developed public-facing content for the Full House Modeling project.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/mohit_singh.jpg" alt="Person 4" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/mohit_singh.jpg" alt="Mohit Singh" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/mohit-singh-5b4b351b3/">Mohit Singh</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/colin_alberts.jpg" alt="Person 5" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/colin_alberts.jpg" alt="Colin Alberts" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> (2024) is a data scientist at CISCO. He was an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He completed a Master's thesis on working on fielder placement optimization. See his GitHub repo <a href = "https://github.com/colalb1/SEAM-Fielder-Optimization">here</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/aidan_glickman.jpg" alt="Person 6" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/aidan_glickman.jpg" alt="Aidan Glickman" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.aidanglickman.com/">Aidan Glickman</a> (2023) is a Computer Science graduate from the University of Illinois Urbana-Champaign. He led a STAT 430 group that developed the initial proof of concept for our baseball video game simulator.</p>
-</div> 
+</div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/fieldOdreams.png" alt="Person 7" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/fieldOdreams.png" alt="Michael Escobedo" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/michael-escobedo-76b452209/">Michael Escobedo</a> (2023) is a Statistics graduate from the University of Illinois Urbana-Champaign. He worked on a baseball season simulator with the Chicago Cubs.</p>
-</div> 
- 
-<div style="display: flex; margin-bottom: 20px;">
-    <img src="images/christian_chase.jpg" alt="Person 8" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>", and is currently a J.D. Candidate at Vanderbilt University Law School.</p>
-</div>  
- 
- 
-</div> 
+</div>
 
-<br>
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/christian_chase.jpg" alt="Christian Chase Jr." style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/christian-chase/">Christian Chase Jr.</a> (2022) worked as a Player Development Intern with the Chicago White Sox. He wrote his University of Florida honors thesis on "<a href = "https://ufdcimages.uflib.ufl.edu/AA/00/08/82/59/00001/Chase_Christian_Honors_Project.pdf">Predicting situation-specific OPS in MLB</a>", and is currently a J.D. Candidate at Vanderbilt University Law School.</p>
+</div>
+
+
+</div>
 
 ([logo image credit](https://tvline.com/2022/08/12/tv-ratings-field-of-dreams-game-mlb/))
-
-
