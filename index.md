@@ -106,6 +106,7 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html) and was on the front page of the 08/13/25 print edition!
  - **05/29/25**: Our paper ["Comparing baseball players across eras via novel Full House Modeling"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short) has been published at *Annals of Applied Statistics*! A [preprint version](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4) is also available. The interdisciplinary nature of this work was highlighted by the [UIUC Statistics Department](https://stat.illinois.edu/news/2025-06-02/illinois-researchers-publish-interdisciplinary-era-adjusting-baseball-study).
  - **05/27/25**: Foolish Baseball featured our era-adjusted WAR statistic in his tour de force [video on Hank Aaron's unparalleled consistency](https://www.youtube.com/watch?v=k_3aAw5iY4k).
+ - **12/21/24**: Wilytics featured our era-adjusted WAR statistic in an incredibly comprehensive [video on Felix Hernandez's deserving HOF case](https://www.youtube.com/watch?v=_1leU0KE1i8).
  - **03/13/23**: Our era-adjusted methodology and interdisciplinary collaboration was [featured](https://stat.illinois.edu/news/2023-03-13/statistics-and-story-baseballs-two-languages) by the College of Liberal Arts and Sciences at University of Illinois Urbana-Champaign.
  - The Eck Sports Lab is collaborating with the Chicago Cubs on a joint undergraduate research mentorship program.
 
@@ -141,7 +142,7 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/junheekim.jpg" alt="Jun Hee Kim" style="width:75px;height:75px; margin-right: 20px;">
+    <img src="images/junheekim.avif" alt="Jun Hee Kim" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;">
         <a href="https://stat.illinois.edu/directory/profile/jk110">Jun Hee Kim</a>
         is currently a PhD in the Department of Statistics at the University of Illinois Urbana-Champaign.
