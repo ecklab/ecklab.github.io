@@ -92,17 +92,17 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 
 
-
 ## Recent News and Events
 
- - **01/02/26** Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=DSYcWescamA) on Joey Votto's career through the lens of era-adjusted baseball statistics.
- - **10/07/25**: Logan Blancett released version 1.0.0 of [*2v2 Baseball Death Match*](https://loganmblancett.shinyapps.io/BaseballDeathmatch/), an R Shiny–based retro arcade simulation video game.
- - **10/06/25**: Idrees Muhammad Kudaimi launched [*The Era Curveball*](https://eracurveball.substack.com/), a substack newsletter featuring player profiles through the lens of era-adjusted baseball statistics.
- - **08/22/25** and **08/24/25**: Daniel J. Eck presented a talk titled "Full House Modeling: Rethinking Fairness, Extremes, and Historical Comparison in Statistics" at, respectively, EcoSta and Saberseminar.
+ - **03/24/26**: Zijian Shen posted a [Substack essay](https://eracurveball.substack.com/p/the-unusual-greatness-of-joey-votto) on Joey Votto's unusual greatness. 
+ - **03/09/26**: Idrees Kudaimi posted a [Substack essay](https://eracurveball.substack.com/p/six-batters-one-billion-dollars-and) on era-adjusted stats for 2026 free agents.
+ - **01/02/26**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=DSYcWescamA) on Joey Votto's career through the lens of era-adjusted baseball statistics.
 
 
 ## Historical Milestones
 
+ - **10/07/25**: Logan Blancett released version 1.0.0 of [*2v2 Baseball Death Match*](https://loganmblancett.shinyapps.io/BaseballDeathmatch/), an R Shiny–based retro arcade simulation video game.
+ - **10/06/25**: Idrees Muhammad Kudaimi launched [*The Era Curveball*](https://eracurveball.substack.com/), a substack newsletter featuring player profiles through the lens of era-adjusted baseball statistics.
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html) and was on the front page of the 08/13/25 print edition!
  - **05/29/25**: Our paper ["Comparing baseball players across eras via novel Full House Modeling"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short) has been published at *Annals of Applied Statistics*! A [preprint version](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4) is also available. The interdisciplinary nature of this work was highlighted by the [UIUC Statistics Department](https://stat.illinois.edu/news/2025-06-02/illinois-researchers-publish-interdisciplinary-era-adjusting-baseball-study).
  - **05/27/25**: Foolish Baseball featured our era-adjusted WAR statistic in his tour de force [video on Hank Aaron's unparalleled consistency](https://www.youtube.com/watch?v=k_3aAw5iY4k).
@@ -125,6 +125,11 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
+    <img src="images/chris_kinson.jpg" alt="Christopher Kinson" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
+</div>
+
+<div style="display: flex; margin-bottom: 20px;">
     <img src="images/shenyan.jpg" alt="Shen Yan" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;">
         <a href="https://www.linkedin.com/in/shen-yan-87a09812b/">Shen Yan</a>
@@ -136,17 +141,31 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/chris_kinson.jpg" alt="Christopher Kinson" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://chriskinson.com/">Christopher Kinson</a> is a Statistics professor at the University of Illinois Urbana-Champaign. He is an active data science educator.</p>
+    <img src="images/junheekim.jpg" alt="Jun Hee Kim" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;">
+        <a href="https://stat.illinois.edu/directory/profile/jk110">Jun Hee Kim</a>
+        is currently a PhD in the Department of Statistics at the University of Illinois Urbana-Champaign.
+        He is researching Full House Models for cross-contextual adjustments of Negro League statistics.
+    </p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/ryan_to.jpg" alt="Ryan To" style="width:75px;height:75px; margin-right: 20px;">
     <p style="text-align: justify;">
         <a href="https://www.linkedin.com/in/ryan-to-23aa79221/">Ryan To</a>
-        is a Computer Science student at the University of Illinois Urbana-Champaign.
-        He is working on a baseball game simulator with the Chicago Cubs, helps facilitate lab research projects,
+        is a MCS student at the University of Illinois Urbana-Champaign.
+	He is developing the codebase for Full House Modeling projects.
+        He worked on a baseball game simulator with the Chicago Cubs, helps facilitate broad lab research projects,
         and mentors student-led content creation initiatives within the lab.
+    </p>
+</div>
+
+<div style="display: flex; margin-bottom: 20px;">
+    <img src="images/ethanmathew.jpg" alt="Ethan Mathew" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;">
+        <a href="https://www.linkedin.com/in/ethanmathw3278/">Ethan Mathew</a>
+        is a MCS student at the University of Illinois Urbana-Champaign.
+	He is researching Full House Models for basketball players.
     </p>
 </div>
 
@@ -167,7 +186,7 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/logan_blancett.jpg" alt="Logan Blancett" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics student at the University of Illinois Urbana-Champaign. He is developing a Shiny-based baseball simulation game, <i>2v2 Baseball Death Match</i>, and also mentors student-led content creation projects within the lab. </p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics student at the University of Illinois Urbana-Champaign. He developed a Shiny-based baseball simulation game, <i>2v2 Baseball Death Match</i>, and also mentors student-led content creation projects within the lab. </p>
 </div>
 
 </div>
