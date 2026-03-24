@@ -8,6 +8,13 @@ Our projects span rigorous methodology, applied analytics, and student-led creat
 
 **Jump to:** [Current Projects](#current-projects) · [Recent News](#recent-news-and-events) · [Historical Milestones](#historical-milestones) · [People](#people) · [Alumni in Baseball](#alumni-working-in-baseball) · [Alumni](#alumni)
 
+<div style="border-left: 4px solid #333; background: #f9f9f9; padding: 12px 16px; margin: 24px 0;">
+  <strong>📰 In the News</strong><br>
+  Our era-adjusted baseball research was featured in
+  <a href="https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html"><em>New York Times Science</em></a>
+  and appeared on the front page of the August 13, 2025 print edition.
+</div>
+
 
 ## Current Projects
 
