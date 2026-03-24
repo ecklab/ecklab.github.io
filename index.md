@@ -8,12 +8,6 @@ Our projects span rigorous methodology, applied analytics, and student-led creat
 
 **Jump to:** [Current Projects](#current-projects) · [Recent News](#recent-news-and-events) · [Historical Milestones](#historical-milestones) · [People](#people) · [Alumni in Baseball](#alumni-working-in-baseball) · [Alumni](#alumni)
 
-<div style="border-left: 4px solid #333; background: #f9f9f9; padding: 12px 16px; margin: 24px 0;">
-  <strong>📰 In the News</strong><br>
-  Our era-adjusted baseball research was featured in
-  <a href="https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html"><em>New York Times Science</em></a>
-  and appeared on the front page of the August 13, 2025 print edition.
-</div>
 
 
 ## Current Projects
@@ -109,6 +103,13 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 
 ## Historical Milestones
+
+<div style="border: 2px solid #333; background: #f5f5f5; padding: 14px 18px; margin-bottom: 20px; border-radius: 4px;">
+  <strong>📰 August 12, 2025 — Featured in the <em>New York Times</em></strong><br>
+  Our era-adjusted baseball research was featured in
+  <a href="https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html"><em>New York Times Science</em></a>
+  and appeared on the front page of the August 13, 2025 print edition.
+</div>
 
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html) and was on the front page of the 08/13/25 print edition!
  - **05/29/25**: Our paper ["Comparing baseball players across eras via novel Full House Modeling"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short) has been published at *Annals of Applied Statistics*! A [preprint version](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/64774?confirm=94cf39e4) is also available. The interdisciplinary nature of this work was highlighted by the [UIUC Statistics Department](https://stat.illinois.edu/news/2025-06-02/illinois-researchers-publish-interdisciplinary-era-adjusting-baseball-study).
