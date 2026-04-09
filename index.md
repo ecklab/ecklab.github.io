@@ -94,9 +94,9 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 ## Recent News and Events
 
+ - **04/08/26**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=MV_oJeaBSOw) on the 2026 HOF class and its omission of three great modern pitchers who rank highly through the lens of era-adjusted baseball statistics.
  - **03/24/26**: Zijian Shen posted a [Substack essay](https://eracurveball.substack.com/p/the-unusual-greatness-of-joey-votto) on Joey Votto's unusual greatness. 
  - **03/09/26**: Idrees Kudaimi posted a [Substack essay](https://eracurveball.substack.com/p/six-batters-one-billion-dollars-and) on era-adjusted stats for 2026 free agents.
- - **01/02/26**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=DSYcWescamA) on Joey Votto's career through the lens of era-adjusted baseball statistics.
 
 
 ## Historical Milestones
