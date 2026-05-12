@@ -238,8 +238,13 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 <div style="display: flex; flex-direction: column;">
 
 <div style="display: flex; margin-bottom: 20px;">
+    <img src="images/amy_kodama.jpg" alt="Amy Kodama" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/amykodama/">Amy Kodama</a> (2026) is a Statistics and Computer Science graduate from the University of Illinois Urbana-Champaign. She developed a proof of concept for a fantasy baseball simulator downstream from era-adjusted statistics. </p>
+</div>
+
+<div style="display: flex; margin-bottom: 20px;">
     <img src="images/logan_blancett.jpg" alt="Logan Blancett" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics Masters student at the University of Illinois Urbana-Champaign. He developed a Shiny-based baseball simulation game, <i>2v2 Baseball Death Match</i>, and also mentored student-led content creation projects within the lab. </p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> (2026) is a Statistics Masters student at the University of Illinois Urbana-Champaign. He developed a Shiny-based baseball simulation game, <i>2v2 Baseball Death Match</i>, and also mentored student-led content creation projects within the lab. </p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
