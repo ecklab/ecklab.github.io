@@ -189,7 +189,7 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/krish_gangal.jpg" alt="Krish Gangal" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/krishgangal/">Krish Gangal</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is contributing to Full House Modeling projects, particularly for basketball statistics.
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/krishgangal/">Krish Gangal</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is contributing to Full House Modeling projects, particularly for basketball statistics. </p>
 </div>
 
 
