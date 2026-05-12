@@ -13,7 +13,7 @@ Our projects span rigorous methodology, applied analytics, and student-led creat
 
 ### Comparing Baseball Players Across Eras
 
-**Project page:** [Era Adjusted Baseball Stats v2.1](https://eckeraadjustment.web.illinois.edu/)
+**Project page:** [Era Adjusted Baseball Stats v3.1](https://eckeraadjustment.web.illinois.edu/)
 **Full write‑up:** [Stats and Case Studies v2.1](https://eckeraadjustment.web.illinois.edu/era_adjusted_V2.1.html)
 
 This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performances of pre-integration players. You can explore these origins in our [initial Shiny app on baseball nostalgia](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). We have since made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries. These models are a crystallization of conceptual logic articulated by Stephen Jay Gould, as explained in [this short video](https://www.youtube.com/watch?v=BNM6ait4LOc).
@@ -22,20 +22,20 @@ Here is a snapshot of our current results. Below is the top 10 list according to
 
 rank | name | ebWAR | name | efWAR
 | -- | ------- | ---- | ------ | ---- |
-1  | Barry Bonds	| 154.71 | Barry Bonds	  | 145.57
-2  | Willie Mays	| 145.30 | Roger Clemens  | 140.75
-3  | Roger Clemens	| 144.38 | Willie Mays	  | 135.78
-4  | Babe Ruth		| 138.64 | Henry Aaron	  | 127.96
-5  | Henry Aaron	| 135.67 | Greg Maddux	  | 120.91
-6  | Alex Rodriguez	| 120.64 | Babe Ruth	  | 120.6
-7  | Stan Musial	| 119.37 | Stan Musial	  | 112.79
-8  | Ty Cobb		| 115    | Alex Rodriguez | 110.52
-9  | Greg Maddux	| 113.55 | Randy Johnson  | 109.78
-10 | Albert Pujols	| 111.95 | Ty Cobb	  | 108.95
+| 1 | Barry Bonds    | 156.5 | Barry Bonds    | 149.5 |
+| 2 | Willie Mays    | 147.3 | Roger Clemens  | 139.6 |
+| 3 | Roger Clemens  | 143.8 | Willie Mays    | 138.6 |
+| 4 | Babe Ruth      | 140.7 | Henry Aaron    | 130.7 |
+| 5 | Henry Aaron    | 138.2 | Babe Ruth      | 125.8 |
+| 6 | Alex Rodriguez | 120   | Greg Maddux    | 119.4 |
+| 7 | Stan Musial    | 119.1 | Stan Musial    | 112.3 |
+| 8 | Ty Cobb        | 116.9 | Ted Williams   | 111.5 |
+| 9 | Greg Maddux    | 112.5 | Ty Cobb        | 110.9 |
+|10 | Albert Pujols  | 112.3 | Alex Rodriguez | 110.8 |
 
 *The list above combines Babe Ruth's batting and pitching WAR*
 
-This is Version 2.1 of the project. For earlier iterations and the development history, see our [project history on GitHub](https://github.com/ecklab/era-adjustment-app-supplement).
+This is Version 3.1 of the project. For earlier iterations and the development history, see our [project history on GitHub](https://github.com/ecklab/era-adjustment-app-supplement).
 
 
 ### SEAM method for Better Batted-Ball Prediction
@@ -94,9 +94,11 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 ## Recent News and Events
 
+ - **05/12/26**: Version 3.1 of era-adjusted baseball stats are live! See this [modeling report](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/tech-reports/modeling-report.html) for some details.
+ - **05/05/26**: Idrees Kudaimi posted a [Substack essay](https://eracurveball.substack.com/p/inflation-illusion-and-greatness) on how greatness is reframed during the Steroid (Selig) era.
+ - **04/20/26**: Version 3.0 of era-adjusted baseball stats are live! See the [Substack post](https://eracurveball.substack.com/p/era-adjusted-baseball-statistics) for details.
  - **04/08/26**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=MV_oJeaBSOw) on the 2026 HOF class and its omission of three great modern pitchers who rank highly through the lens of era-adjusted baseball statistics.
  - **03/24/26**: Zijian Shen posted a [Substack essay](https://eracurveball.substack.com/p/the-unusual-greatness-of-joey-votto) on Joey Votto's unusual greatness. 
- - **03/09/26**: Idrees Kudaimi posted a [Substack essay](https://eracurveball.substack.com/p/six-batters-one-billion-dollars-and) on era-adjusted stats for 2026 free agents.
 
 
 ## Historical Milestones
@@ -186,9 +188,10 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
-    <img src="images/logan_blancett.jpg" alt="Logan Blancett" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics student at the University of Illinois Urbana-Champaign. He developed a Shiny-based baseball simulation game, <i>2v2 Baseball Death Match</i>, and also mentors student-led content creation projects within the lab. </p>
+    <img src="images/krish_gangal.jpg" alt="Krish Gangal" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/krishgangal/">Krish Gangal</a> is a Computer Science student at the University of Illinois Urbana-Champaign. He is contributing to Full House Modeling projects, particularly for basketball statistics.
 </div>
+
 
 </div>
 
@@ -235,28 +238,33 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 <div style="display: flex; flex-direction: column;">
 
 <div style="display: flex; margin-bottom: 20px;">
+    <img src="images/logan_blancett.jpg" alt="Logan Blancett" style="width:75px;height:75px; margin-right: 20px;">
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/logan-blancett-754336253/">Logan Blancett</a> is a Statistics Masters student at the University of Illinois Urbana-Champaign. He developed a Shiny-based baseball simulation game, <i>2v2 Baseball Death Match</i>, and also mentored student-led content creation projects within the lab. </p>
+</div>
+
+<div style="display: flex; margin-bottom: 20px;">
     <img src="images/ashrith_anumala.jpg" alt="Ashrith Anumala" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ashrithanumala/">Ashrith Anumala</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/ashrithanumala/">Ashrith Anumala</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He developed a baseball game simulator with the Chicago Cubs.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/colin_doherty.jpg" alt="Colin Doherty" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colinmdoherty/">Colin Doherty</a> (2025) is a Statistics student at the University of Illinois Urbana-Champaign. He is working on a baseball game simulator with the Chicago Cubs.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colinmdoherty/">Colin Doherty</a> (2025) is a Statistics student at the University of Illinois Urbana-Champaign. He developed a baseball game simulator with the Chicago Cubs.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/zheer_wang.jpg" alt="Ava (Zheer) Wang" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/zheer-wang/">Ava (Zheer) Wang</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. She developed public-facing content for the Full House Modeling project.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/zheer-wang/">Ava (Zheer) Wang</a> (2025) is a MSCSE student at Georgia Tech. She is a Computer Science and Statistics graduate of University of Illinois Urbana-Champaign. She developed public-facing content for the Full House Modeling project.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/mohit_singh.jpg" alt="Mohit Singh" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/mohit-singh-5b4b351b3/">Mohit Singh</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He is developing public-facing content for the Full House Modeling project.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/mohit-singh-5b4b351b3/">Mohit Singh</a> (2025) is a Computer Science and Statistics student at the University of Illinois Urbana-Champaign. He helped develop public-facing content for the Full House Modeling project.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
     <img src="images/colin_alberts.jpg" alt="Colin Alberts" style="width:75px;height:75px; margin-right: 20px;">
-    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> (2024) is a data scientist at CISCO. He was an Applied Mathematics MS student at the University of Illinois Urbana-Champaign. He completed a Master's thesis on working on fielder placement optimization. See his GitHub repo <a href = "https://github.com/colalb1/SEAM-Fielder-Optimization">here</a>.</p>
+    <p style="text-align: justify;"><a href = "https://www.linkedin.com/in/colin-alberts/">Colin Alberts</a> (2024) is a data scientist at CISCO. He is an Applied Mathematics MS graduate from University of Illinois Urbana-Champaign. He completed a Master's thesis on working on fielder placement optimization. See his GitHub repo <a href = "https://github.com/colalb1/SEAM-Fielder-Optimization">here</a>.</p>
 </div>
 
 <div style="display: flex; margin-bottom: 20px;">
