@@ -14,7 +14,7 @@ Our projects span rigorous methodology, applied analytics, and student-led creat
 ### Comparing Baseball Players Across Eras
 
 **Project page:** [Era Adjusted Baseball Stats v3.1](https://eckeraadjustment.web.illinois.edu/)
-**Full write‑up:** [Stats and Case Studies v2.1](https://eckeraadjustment.web.illinois.edu/era_adjusted_V2.1.html)
+**Full write‑up:** [Stats and Case Studies v3.1](https://eckeraadjustment.web.illinois.edu/era-adjusted-V3.1.html)
 
 This is an ongoing project devoted to the development of statistical tools which can era-adjust performance metrics. The impetus for this project was the initial discovery that the current consensus of baseball ranking methods were biased towards the performances of pre-integration players. You can explore these origins in our [initial Shiny app on baseball nostalgia](https://deck13.shinyapps.io/challenging_baseball_nostalgia/?_ga=2.63424943.1066016428.1662040173-852280612.1656705949). We have since made an advance towards the creation of era-adjusted statistics with the development of what we call [Full House Modeling](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Comparing-baseball-players-across-eras-via-novel-Full-House-Modeling/10.1214/24-AOAS1992.short). Full House Models era-adjust statistics through a principled balancing of how players performed "vs. their peers" and the quality of the talent pool of players' contemporaries. These models are a crystallization of conceptual logic articulated by Stephen Jay Gould, as explained in [this short video](https://www.youtube.com/watch?v=BNM6ait4LOc).
 
@@ -94,15 +94,18 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 ## Recent News and Events
 
+ - **07/30/26**: Daniel Eck will [speak about cross-era comparisons](https://sabr.org/convention/sabr54-schedule) at the Society of American Baseball Research annual convention held in Cleveland. Talk is at 10:30 AM.
+ - **06/23/26**: Daniel Eck posted a [Substack essay](https://eracurveball.substack.com/p/the-future-is-era-adjusted-welcome) on the outlook of our era-adjusted baseball statistics project with some commentary on how the X/Twitter account will function moving forward.
+ - **06/05/26**: EckSportsLab is now live on X/Twitter! Check it out: https://x.com/deck1388
+ - **05/25/26**: Rohan Nadkarni posted a [Substack essay](https://eracurveball.substack.com/p/an-era-adjusted-hall-of-fame-case) about the Hall of Fame case for Felix Hernandez.
  - **05/12/26**: Version 3.1 of era-adjusted baseball stats are live! See this [modeling report](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/tech-reports/modeling-report.html) for some details.
  - **05/05/26**: Idrees Kudaimi posted a [Substack essay](https://eracurveball.substack.com/p/inflation-illusion-and-greatness) on how greatness is reframed during the Steroid (Selig) era.
- - **04/20/26**: Version 3.0 of era-adjusted baseball stats are live! See the [Substack post](https://eracurveball.substack.com/p/era-adjusted-baseball-statistics) for details.
- - **04/08/26**: Christopher Ye uploaded a [video essay](https://www.youtube.com/watch?v=MV_oJeaBSOw) on the 2026 HOF class and its omission of three great modern pitchers who rank highly through the lens of era-adjusted baseball statistics.
- - **03/24/26**: Zijian Shen posted a [Substack essay](https://eracurveball.substack.com/p/the-unusual-greatness-of-joey-votto) on Joey Votto's unusual greatness. 
+
 
 
 ## Historical Milestones
 
+ - **06/05/26**: EckSportsLab is now live on X/Twitter! Check it out: https://x.com/deck1388
  - **10/07/25**: Logan Blancett released version 1.0.0 of [*2v2 Baseball Death Match*](https://loganmblancett.shinyapps.io/BaseballDeathmatch/), an R Shiny–based retro arcade simulation video game.
  - **10/06/25**: Idrees Muhammad Kudaimi launched [*The Era Curveball*](https://eracurveball.substack.com/), a substack newsletter featuring player profiles through the lens of era-adjusted baseball statistics.
  - **08/12/25**: Our era‑adjusted baseball research was featured in [*New York Times Science*](https://www.nytimes.com/2025/08/12/science/baseball-statistics-babe-bonds.html) and was on the front page of the 08/13/25 print edition!
