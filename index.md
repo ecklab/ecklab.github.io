@@ -96,7 +96,7 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
  - **07/30/26**: Daniel Eck will [speak about cross-era comparisons](https://sabr.org/convention/sabr54-schedule) at the Society of American Baseball Research annual convention held in Cleveland. Talk is at 10:30 AM.
  - **06/23/26**: Daniel Eck posted a [Substack essay](https://eracurveball.substack.com/p/the-future-is-era-adjusted-welcome) on the outlook of our era-adjusted baseball statistics project with some commentary on how the X/Twitter account will function moving forward.
- - **06/05/26**: EckSportsLab is now live on X/Twitter! Check it out: https://x.com/deck1388
+ - **06/05/26**: EckSportsLab is now live on X/Twitter! Check it out: [https://x.com/deck1388](https://x.com/deck1388). 
  - **05/25/26**: Rohan Nadkarni posted a [Substack essay](https://eracurveball.substack.com/p/an-era-adjusted-hall-of-fame-case) about the Hall of Fame case for Felix Hernandez.
  - **05/12/26**: Version 3.1 of era-adjusted baseball stats are live! See this [modeling report](https://htmlpreview.github.io/?https://github.com/ecklab/era-adjustment-app-supplement/blob/main/tech-reports/modeling-report.html) for some details.
  - **05/05/26**: Idrees Kudaimi posted a [Substack essay](https://eracurveball.substack.com/p/inflation-illusion-and-greatness) on how greatness is reframed during the Steroid (Selig) era.
