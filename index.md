@@ -1,10 +1,10 @@
 ## Welcome
 
-Welcome to Eck Sports Lab, where cutting-edge statistics meet baseball history, culture, and creativity.
+Welcome to Eck Sports Lab, where cutting-edge statistics meet the world of sports.
 
-At Eck Sports Lab, our mission is to research all things sports, with a current emphasis on baseball. We study topics ranging from player evaluation metrics to comparing baseball players across eras. What unites our work is a dedication to high-quality, innovative statistical and interdisciplinary research that are presented in ways that are accessible, engaging, and often entertaining.
+At Eck Sports Lab, our mission is to research all things sports, with a current emphasis on baseball. We study topics ranging from player evaluation to comparing baseball players across eras. What unites our work is a dedication to high-quality, innovative statistical and interdisciplinary research that are presented in ways that are accessible, engaging, and often entertaining.
 
-Our projects span rigorous methodology, applied analytics, and student-led creative initiatives, all working together to bring new perspectives to how we understand sports.
+Our projects span rigorous methodology, applied analytics, and student-led creative initiatives, all working together to bring new perspectives to how we understand sports and how they interact with and inform our society.
 
 **Jump to:** [Current Projects](#current-projects) · [Recent News](#recent-news-and-events) · [Historical Milestones](#historical-milestones) · [People](#people) · [Alumni in Baseball](#alumni-working-in-baseball) · [Alumni](#alumni)
 
@@ -94,6 +94,7 @@ An R Shiny–based retro arcade simulation video game by **Logan Blancett**, ori
 
 ## Recent News and Events
 
+ - **08/13/26**: Our paper ["A Change in the Lineup? A Historical Foundation for a Cross-Era Statistical Model to Assess Baseball’s All-Time Greats"](https://muse.jhu.edu/article/998564) has been published at *NINE: A Journal of Baseball History and Culture*!
  - **07/30/26**: Daniel Eck will [speak about cross-era comparisons](https://sabr.org/convention/sabr54-schedule) at the Society of American Baseball Research annual convention held in Cleveland. Talk is at 10:30 AM.
  - **06/23/26**: Daniel Eck posted a [Substack essay](https://eracurveball.substack.com/p/the-future-is-era-adjusted-welcome) on the outlook of our era-adjusted baseball statistics project with some commentary on how the X/Twitter account will function moving forward.
  - **06/05/26**: EckSportsLab is now live on X/Twitter! Check it out: [https://x.com/deck1388](https://x.com/deck1388). 
