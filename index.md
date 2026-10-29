@@ -22,18 +22,18 @@ This is an ongoing project devoted to the development of statistical tools which
 
 Here is a snapshot of our current results. Below is the top 10 list according to era-adjusted baseball reference wins above replacement (ebWAR) and era-adjusted fangraphs wins above replacement (efWAR):
 
-rank | name | ebWAR | name | efWAR
-| -- | ------- | ---- | ------ | ---- |
-| 1 | Barry Bonds    | 156.1 | Barry Bonds    | 147.5 |
-| 2 | Willie Mays    | 147.2 | Willie Mays    | 137.9 |
-| 3 | Roger Clemens  | 142.9 | Roger Clemens  | 134.6 |
-| 4 | Babe Ruth      | 140.9 | Henry Aaron    | 130.2 |
-| 5 | Henry Aaron    | 138.2 | Babe Ruth      | 124.9 |
-| 6 | Alex Rodriguez | 120.1 | Greg Maddux    | 117.4 |
-| 7 | Stan Musial    | 119   | Stan Musial    | 111.9 |
-| 8 | Ty Cobb        | 115.8 | Ty Cobb        | 111.6 |
-| 9 | Albert Pujols  | 112   | Alex Rodriguez | 110.3 |
-|10 | Greg Maddux    | 111.6 | Ted Williams   | 110.3 |
+| rank | name           | ebWAR | name           | efWAR |
+| ---- | -------------- | ----- | -------------- | ----- |
+| 1    | Barry Bonds    | 156.1 | Barry Bonds    | 147.5 |
+| 2    | Willie Mays    | 147.2 | Willie Mays    | 137.9 |
+| 3    | Roger Clemens  | 142.9 | Roger Clemens  | 134.6 |
+| 4    | Babe Ruth      | 140.9 | Henry Aaron    | 130.2 |
+| 5    | Henry Aaron    | 138.2 | Babe Ruth      | 124.9 |
+| 6    | Alex Rodriguez | 120.1 | Greg Maddux    | 117.4 |
+| 7    | Stan Musial    | 119   | Stan Musial    | 111.9 |
+| 8    | Ty Cobb        | 115.8 | Ty Cobb        | 111.6 |
+| 9    | Albert Pujols  | 112   | Alex Rodriguez | 110.3 |
+| 10   | Greg Maddux    | 111.6 | Ted Williams   | 110.3 |
 
 *The list above combines Babe Ruth's batting and pitching WAR*
 
